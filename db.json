@@ -1,0 +1,104 @@
+{
+  "locations": [
+    {
+    "id": "0",
+    "location_name": "Kuala Lumpur",
+    "image": "https://images.unsplash.com/photo-1520919177397-8c965d4b4fa6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1164&q=80",
+    "slogan": "Modern & Exclusive ",
+    "description": "Over the years Kuala Lumpur grew into an important Asian city. Within Malaysia Kuala Lumpur is seen as the center of the country; 'it happens all' in KL. People from all areas within Malaysia come to KL to find jobs or do business. Tourist love the city as it has numerous great sights and attractions. Besides that there are simply too many choices when it comes to dining options. ",
+    "coordinate": {
+      "lon": "3.1390",
+      "lat": "101.6869"
+    },
+
+    "itenary": [{
+        "itenary_id": "0",
+        "day": "1",
+        "itenary_location_name": "Petronas Tower",
+        "itenary_description": "The Petronas Towers, or the Petronas Twin Towers, are twin skyscrapers in Kuala Lumpur, Malaysia. According to the Council on Tall Buildings and Urban Habitat's official definition and ranking, they were the tallest buildings in the world from 1998 to 2004 when they were surpassed by Taipei 101.",
+        "itenary_image": "https://images.unsplash.com/photo-1592723905426-1181bf431d3a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80",
+        "website": "https://www.petronastwintowers.com.my",
+        "phone_number": "03-2331 8080",
+        "itenary_coordinate": {
+          "lon": "3.1580",
+          "lat": "101.7118"
+        },
+
+        "address": "Concourse Level, Petronas Twin Tower, Lower Ground, Kuala Lumpur City Centre,",
+        "state": " Kuala Lumpur",
+        "postcode": "50088"
+      },
+      {
+        "itenary_id": "1",
+        "day": "2",
+        "itenary_location_name": "National Art Gallery",
+        "itenary_description": "The National Art Gallery of Malaysia is a public art gallery in Kuala Lumpur, Malaysia. The gallery is situated along Jalan Tun Razak, on the northern edge of central Kuala Lumpur. ",
+        "itenary_image": "https://www.arts.com.my/wp-content/uploads/2014/10/G13-1024x468.jpg",
+        "website": "https://www.artgallery.gov.my",
+        "phone_number": "03-4026 7000",
+        "itenary_coordinate": {
+          "lon": "3.1737618015068203",
+          "lat": "101.70533866175653"
+        },
+
+        "address": "No. 2, Jalan Temerloh, Titiwangsa",
+        "state": "Kuala Lumpur",
+        "postcode": "53200"
+      }
+
+    ]
+
+  }
+],
+
+  "food": [
+    {
+    "id": "0",
+    "location_name": "Nasi Lemak Wanjo Kg Baru ",
+    "image": "https://live.staticflickr.com/798/26107233167_200afcb34b_b.jpg",
+    "description": "Formerly known as Nasi Lemak Mak Wanjo, the restaurant has been operating for 55 years as they started as a regular roadside stall. Today Nasi Lemak Wanjo is highly regarded as the best Nasi Lemak in Kuala Lumpur. ",
+
+    "address": "8, Jalan Raja Muda Musa, ",
+    "state": "Kampung Baru",
+    "postcode": "50300",
+    "phone_number": "011-6336 1963",
+    "website": "null",
+
+    "coordinate": {
+      "lon": "3.162697316348487",
+      "lat": "101.70441202313546"
+    }
+  }
+],
+
+  "events": 
+  [
+    {
+    "id": "0",
+    "events_name": "Chinese New Year",
+    "events_desc": "Chinese New Year is one of Malaysia's biggest holidays. Though the date changes each year, the way the festival is celebrated remains the same: unmarried relatives receive ang pows (money in red packets), families have reunion dinners and some people have huge feasts with lion or dragon dances.",
+    "suggested_locations": 
+    [
+      {
+
+      "location_name": "Thean Hou Temple",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nst.com.my%2Fnews%2Fnation%2F2018%2F03%2F344911%2Fmalaysias-lunar-new-year-festival-celebrations-gaining-popularity-among&psig=AOvVaw1HTlDF2PbfUzQHP3ybVjA0&ust=1627481450994000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCd9_-2g_ICFQAAAAAdAAAAABAI",
+      "location_description": "The Thean Hou Temple is a six-tiered temple of the Chinese sea goddess Mazu located in Kuala Lumpur, Malaysia. It is located on 1.67 acres of land atop Robson Heights on Lorong Bellamy, overlooking Jalan Syed Putra. It was completed in 1987 and officially opened in 1989",
+
+      "address": "65, Persiaran Endah, Taman Persiaran Desa,",
+      "state": "Kuala Lumpur",
+      "postcode": "50460",
+      "phone_number": "03-2274 7088",
+      "website": "null",
+
+    
+      "coordinate": {
+        "lon": "3.122334002766817",
+        "lat": "101.68766881942878"
+      }
+    }
+  ]
+
+  }
+]
+}
