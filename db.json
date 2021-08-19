@@ -1,132 +1,319 @@
 {
-  "locations": [{
-    "id": "0",
-    "location_name": "Kuala Lumpur",
-    "image": "https://images.unsplash.com/photo-1520919177397-8c965d4b4fa6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1164&q=80",
-    "slogan": "Modern & Exclusive ",
-    "description": "Over the years Kuala Lumpur grew into an important Asian city. Within Malaysia Kuala Lumpur is seen as the center of the country; 'it happens all' in KL. People from all areas within Malaysia come to KL to find jobs or do business. Tourist love the city as it has numerous great sights and attractions. Besides that there are simply too many choices when it comes to dining options. ",
-    "coordinate": {
-      "lon": "3.1390",
-      "lat": "101.6869"
-    },
+  "locations": 
+  {
+    "locations": 
+    [
+      {
+      "id": "0",
+      "location_name": "Kuala Lumpur",
+      "image": "https://images.unsplash.com/photo-1520919177397-8c965d4b4fa6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1164&q=80",
+      "slogan": "Modern & Exclusive ",
+      "description": "Over the years Kuala Lumpur grew into an important Asian city. Within Malaysia Kuala Lumpur is seen as the center of the country; 'it happens all' in KL. People from all areas within Malaysia come to KL to find jobs or do business. Tourist love the city as it has numerous great sights and attractions. Besides that there are simply too many choices when it comes to dining options. ",
+      "coordinate": {
+        "lon": "3.1390",
+        "lat": "101.6869"
+      }
+      },
+      {
+        "id": "1",
+        "location_name": "Sabah",
+        "image": "https://images.unsplash.com/photo-1571639093852-a67fa7bd5e08?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80",
+        "slogan": " beautiful and breezy ",
+        "description": "Sabah is a Malaysian state that occupies the northern half of Borneo's landmass. It is famous for Mount Kinabalu, the country's tallest peak, which stands 4,095 metres tall and is topped with unique granite spires. ",
+        "coordinate": {
+          "lon": "5.9788",
+          "lat": "116.0753"
+        }
+      }
+    ]
+  },
 
-    "itenary/KL": [{
+    "itenary_KL": 
+    {
+      "itenary_KL" : 
+      [
+        {
+          "day1": 
+          [
+            {
+      
+              "itenary_id": "0",
+              "itenary_location_name": "Batu Caves Temple",
+              "itenary_description": "Batu Caves is a limestone hill that has a series of caves and cave temples in Gombak, Selangor, Malaysia. It takes its name from the Malay word batu, meaning 'rock'. The hill was originally known as Kapal Tanggang from the legend of Si Tanggang. The town nearby is named after the Batu Caves limestone formation.",
+              "itenary_image": "https://lp-cms-production.imgix.net/2019-06/6e06f1053e5a3f2078a2d162b15d9482af3de481065718c6285f80bdbe471da1.jpg",
+              "website": "",
+              "phone_number": "03-6189 6284",
+              "itenary_coordinate": {
+                "lon": "3.2379",
+                "lat": "101.6840"
+              },
+      
+              "address": "Batu Caves, Gombak",
+              "state": " Selangor",
+              "postcode": "68100"
+      
+            },
+      
+            {
+      
+              "itenary_id": "1",
+              "itenary_location_name": "Chinatown Kuala Lumpur",
+              "itenary_description": "Lively, colorful Chinatown is centered on Petaling Street, known for its fashion shops and a large covered market with produce, clothes and accessories. Local artists sell paintings and crafts at nearby Central Market, where stalls also dish up noodles and curry. Places of worship in the area include the Taoist Guan Di Temple and the 19th-century Sri Mahamariamman Temple, with a facade of carved Hindu deities.",
+              "itenary_image": "https://findingbeyond.com/app/uploads/2017/11/things-to-do-in-chinatown-kuala-lumpur-petaling-street-market.jpg",
+              "website": "",
+              "phone_number": "",
+              "itenary_coordinate": {
+                "lon": "3.1428",
+                "lat": "101.6969"
+              },
+      
+              "address": "Chinatown Kuala Lumpur",
+              "state": " Kuala Lumpur",
+              "postcode": "50088"
+      
+            },
+            {
+      
+              "itenary_id": "2",
+              "itenary_location_name": "Petronas Tower",
+              "itenary_description": "The Petronas Towers, or the Petronas Twin Towers, are twin skyscrapers in Kuala Lumpur, Malaysia. According to the Council on Tall Buildings and Urban Habitat's official definition and ranking, they were the tallest buildings in the world from 1998 to 2004 when they were surpassed by Taipei 101.",
+              "itenary_image": "https://images.unsplash.com/photo-1592723905426-1181bf431d3a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80",
+              "website": "https://www.petronastwintowers.com.my",
+              "phone_number": "03-2331 8080",
+              "itenary_coordinate": {
+                "lon": "3.1580",
+                "lat": "101.7118"
+              },
+      
+              "address": "Concourse Level, Petronas Twin Tower, Lower Ground, Kuala Lumpur City Centre,",
+              "state": " Kuala Lumpur",
+              "postcode": "50088"
+      
+            },
+      
+            {
+      
+              "itenary_id": "3",
+              "itenary_location_name": "Sunset view at Heli lounge bar",
+              "itenary_description": "If you are looking for certain 360-views and a completely open and airy terrace, this is the place! Just as the name suggests, Heli Lounge Bar is a big helipad made into a Kuala Lumpur rooftop bar. The best time to visit the Helipad is at sunset, as watching the sun go down over Kuala Lumpur is something really special. Tip is actually to try and be here as close to opening as possible, as it is a popular place and the seats up top fills up rather quickly. Later at night the vibe at Helipad usually is pretty high, with a younger crowd enjoying the night.",
+              "itenary_image": "https://www.therooftopguide.com/rooftop-bars-in-kuala-lumpur/Bilder/HeliLoungeBar_5_slide.jpg",
+              "website": "https://www.facebook.com/Heliloungebar/",
+              "phone_number": "03-2110 5034",
+              "itenary_coordinate": {
+                "lon": "3.1516",
+                "lat": "101.7097"
+              },
+      
+              "address": "Menara KH Jalan Sultan Ismail",
+              "state": " Kuala Lumpur",
+              "postcode": "50450"
+      
+            },
+      
+            {
+      
+              "itenary_id": "4",
+              "itenary_location_name": "Symphony Lake Water Show ",
+              "itenary_description": "Situated on the southeast side of the Petronas Towers is a city center green space, KLCC Park. The 50-acre garden features tropical foliage, more than 1km of walking trails and a man-made pond, Symphony Lake.  At the lake’s edge, just opposite the entrance to Suria KLCC, fountains spray water is a dazzling display – with the largest fountain able to spout water to the height of 350 feet. At night, the fountains are accompanied by music and lights in an incredible water show. Note: Special shows occur at 8:00pm, 9:00pm and 10:00pm.",
+              "itenary_image": "http://asiamarvels.com/wp-content/uploads/2017/04/klcc-park-fountain-show-time-7-e1491637266204.jpg",
+              "website": "https://www.suriaklcc.com.my/attractions/esplanade-lake-symphony/",
+              "phone_number": "",
+              "itenary_coordinate": {
+                "lon": "3.1577",
+                "lat": "101.7122"
+              },
+      
+              "address": "241, Suria KLCC, Kuala Lumpur City Centre",
+              "state": " Kuala Lumpur",
+              "postcode": "50088"
+      
+            },
+            {
+      
+              "itenary_id": "5",
+              "itenary_location_name": "Tapak Urban Street Dining ",
+              "itenary_description": "TAPAK is the brainchild of 3 good high school friends from different study background, sharing the same love for street food. Established in 2016, TAPAK became Malaysia’s 1st food truck park that brings together local food truck operators and food lovers towards urban street dining culture. ",
+              "itenary_image": "http://asiamarvels.com/wp-content/uploads/2017/04/klcc-park-fountain-show-time-7-e1491637266204.jpg",
+              "website": "https://www.suriaklcc.com.my/attractions/esplanade-lake-symphony/",
+              "phone_number": "",
+              "itenary_coordinate": {
+                "lon": "3.1577",
+                "lat": "101.7122"
+              },
+      
+              "address": "241, Suria KLCC, Kuala Lumpur City Centre",
+              "state": " Kuala Lumpur",
+              "postcode": "50088"
+      
+            }
+      
+          ],
+      
+          "day2": 
+          [
+      
+            {
+              "itenary_id": "0",
+              "itenary_location_name": "KL Tower ",
+              "itenary_description": "The Kuala Lumpur Tower is a communications tower located in Kuala Lumpur, Malaysia. Its construction was completed on 1 March 1995. It features an antenna that increases its height to 421 metres and is the 7th tallest freestanding tower in the world. The roof of the pod is at 335 metres.",
+              "itenary_image": "https://images.unsplash.com/photo-1520919177397-8c965d4b4fa6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=564&q=80",
+              "website": "https://www.menarakl.com.my",
+              "phone_number": "03-2020 5444",
+              "itenary_coordinate": {
+                "lon": "3.1528",
+                "lat": "101.7038"
+              },
+      
+              "address": "No. 2 Jalan Punchak Off, Jalan P. Ramlee",
+              "state": " Kuala Lumpur",
+              "postcode": "50250"
+            },
+
+            {
+              "itenary_id": "1",
+              "itenary_location_name": "KL Forest Eco Park",
+              "itenary_description": "The KL Tower was built in the Bukit Nanas Forest Reserve – where nature still reigns despite the modern marvel rising above it. In fact, a rare 100-year-old Jelutong Tree stands alongside the tower in a protective enclosure; the tower had to be built a few feet from where it was originally planned in order to accommodate the tree (at the cost of more than $100,000 USD). The tropical rainforest was designated a reserve in 1906 and is home to endangered plant species, birds and monkeys. Walking paths allow nature lovers the opportunity to walk through the city-center tropical rainforest – and a Canopy Walk lets visitors get a view from the treetops.",
+              "itenary_image": "https://coupletraveltheworld.com/wp-content/uploads/2018/08/Kl-Forest-Eco-Park-Photo-1024x768.png",
+              "website": "https://www.forestry.gov.my/index.php/en/wp-kuala-lumpur/taman-eko-rimba-kuala-lumpur",
+              "phone_number": "03-2020 1606",
+              "itenary_coordinate": {
+                "lon": "3.1509",
+                "lat": "101.7021"
+              },
+          
+              "address": "Lot 240, Jln Raja Chulan, Bukit Kewangan",
+              "state": "Kuala Lumpur",
+              "postcode": "50250"
+            },
+            {
+              "itenary_id": "2",
+              "itenary_location_name": "Jalan Alor Food Street",
+              "itenary_description": "Jalan Alor is the place where both tourists and locals go for a fun experience in KL dining. During the day there isn’t much going on, but after 5:00pm, Jalan Alor Food Street is one of the Kuala Lumpur best places to visit. An incredible number of hawker stalls dishing up local Malay and Chinese cuisine line the street, enticing passers-by with tantalizing scents and bargain meals. The street gets packed with visitors and the best stalls have crowds surrounding them. Some vendors offer food-on-the-go options, while others serve heaping platters to customers sitting on low stools at plastic tables in a hustle and bustle ambiance.",
+              "itenary_image": "https://www.thetravelquandary.com/wp-content/uploads/2019/02/A-Tasty-Encounter-at-Jalan-Alor-Street-Food-Market-Kuala-Lumpur_FI.2_6240-x-4160.jpg",
+              "website": "",
+              "phone_number": "",
+              "itenary_coordinate": {
+                "lon": "3.1459836963773475",
+                "lat": ", 101.70891305410413"
+              },
+              "address": "75, Jln Alor, Bukit Bintang",
+              "state": "Kuala Lumpur",
+              "postcode": "50200"
+            }  
+          ]
+      
+        }
+
+      ]
+    },
+    
+
+    "itenary_Sabah": [{
         "day1": [{
 
             "itenary_id": "0",
-            "itenary_location_name": "Batu Caves Temple",
-            "itenary_description": "Batu Caves is a limestone hill that has a series of caves and cave temples in Gombak, Selangor, Malaysia. It takes its name from the Malay word batu, meaning 'rock'. The hill was originally known as Kapal Tanggang from the legend of Si Tanggang. The town nearby is named after the Batu Caves limestone formation.",
-            "itenary_image": "https://lp-cms-production.imgix.net/2019-06/6e06f1053e5a3f2078a2d162b15d9482af3de481065718c6285f80bdbe471da1.jpg",
+            "itenary_location_name": "Ladang Tenusu Desa Cattle",
+            "itenary_description": "Desa Cattle Dairy Farm is a dairy farm located at the foot of Mount Kinabalu in Kundasang Valley, Sabah, Malaysia owned by the Desa Cattle Sdn Bhd where most of Sabah's cow milk and dairy product been produced.",
+            "itenary_image": "https://d3avoj45mekucs.cloudfront.net/rojakdaily/media/azwa/lifestyle/lembu.jpg?ext=.jpg",
             "website": "",
-            "phone_number": "03-6189 6284",
+            "phone_number": "088-889 562",
             "itenary_coordinate": {
-              "lon": "3.2379",
-              "lat": "101.6840"
+              "lon": "6.0164",
+              "lat": "116.5914"
             },
 
-            "address": "Batu Caves, Gombak",
-            "state": " Selangor",
-            "postcode": "68100"
+            "address": "Jalan Cinta Mata Mesilou, Kundasang",
+            "state": " Sabah",
+            "postcode": " 89308 "
 
           },
 
           {
 
             "itenary_id": "1",
-            "itenary_location_name": "Chinatown Kuala Lumpur",
-            "itenary_description": "Lively, colorful Chinatown is centered on Petaling Street, known for its fashion shops and a large covered market with produce, clothes and accessories. Local artists sell paintings and crafts at nearby Central Market, where stalls also dish up noodles and curry. Places of worship in the area include the Taoist Guan Di Temple and the 19th-century Sri Mahamariamman Temple, with a facade of carved Hindu deities.",
-            "itenary_image": "https://findingbeyond.com/app/uploads/2017/11/things-to-do-in-chinatown-kuala-lumpur-petaling-street-market.jpg",
+            "itenary_location_name": "Sapi Island",
+            "itenary_description": "Popular island in a marine park featuring clear waters, abundant fish life & shaded picnic spots.",
+            "itenary_image": "https://s3media.freemalaysiatoday.com/wp-content/uploads/2020/01/pulau-sapi-fb-1.jpg",
             "website": "",
-            "phone_number": "",
+            "phone_number": "012-865 3396",
             "itenary_coordinate": {
-              "lon": "3.1428",
-              "lat": "101.6969"
+              "lon": "6.0090",
+              "lat": "116.0080"
             },
 
-            "address": "Chinatown Kuala Lumpur",
-            "state": " Kuala Lumpur",
-            "postcode": "50088"
+            "address": "K.K, sapi island, Kota Kinabalu",
+            "state": " Sabah",
+            "postcode": "88000"
 
           },
           {
 
             "itenary_id": "2",
-            "itenary_location_name": "Petronas Tower",
-            "itenary_description": "The Petronas Towers, or the Petronas Twin Towers, are twin skyscrapers in Kuala Lumpur, Malaysia. According to the Council on Tall Buildings and Urban Habitat's official definition and ranking, they were the tallest buildings in the world from 1998 to 2004 when they were surpassed by Taipei 101.",
-            "itenary_image": "https://images.unsplash.com/photo-1592723905426-1181bf431d3a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80",
-            "website": "https://www.petronastwintowers.com.my",
-            "phone_number": "03-2331 8080",
+            "itenary_location_name": "Sepilok Orangutan Rehabilitation Centre",
+            "itenary_description": "Sepilok Orangutan Rehabilitation Centre is located about 25 kilometres west of Sandakan in the state of Sabah, Malaysia. The centre opened in 1964 as the first official orangutan rehabilitation project for rescued orphaned baby orangutans from logging sites, plantations, illegal hunting or kept as pets.",
+            "itenary_image": "https://s3media.freemalaysiatoday.com/wp-content/uploads/2020/06/Sepilok-Orang-Utan-Sabah-130620.jpg",
+            "website": "",
+            "phone_number": "089-633 587",
             "itenary_coordinate": {
-              "lon": "3.1580",
-              "lat": "101.7118"
+              "lon": "5.8644",
+              "lat": "117.9488"
             },
 
-            "address": "Concourse Level, Petronas Twin Tower, Lower Ground, Kuala Lumpur City Centre,",
-            "state": " Kuala Lumpur",
-            "postcode": "50088"
+            "address": " Sabah Wildlife Department, W.D.T. 200, Sandakan, Jalan Sepilok, Sepilok ",
+            "state": " Sabah",
+            "postcode": "90000"
 
           },
-
           {
 
             "itenary_id": "3",
-            "itenary_location_name": "Sunset view at Heli lounge bar",
-            "itenary_description": "If you are looking for certain 360-views and a completely open and airy terrace, this is the place! Just as the name suggests, Heli Lounge Bar is a big helipad made into a Kuala Lumpur rooftop bar. The best time to visit the Helipad is at sunset, as watching the sun go down over Kuala Lumpur is something really special. Tip is actually to try and be here as close to opening as possible, as it is a popular place and the seats up top fills up rather quickly. Later at night the vibe at Helipad usually is pretty high, with a younger crowd enjoying the night.",
-            "itenary_image": "https://www.therooftopguide.com/rooftop-bars-in-kuala-lumpur/Bilder/HeliLoungeBar_5_slide.jpg",
-            "website": "https://www.facebook.com/Heliloungebar/",
-            "phone_number": "03-2110 5034",
+            "itenary_location_name": "Poring Hot Spring",
+            "itenary_description": "Poring is situated in lowland rainforest, contrasting with the montane and submontane rainforest of Kinabalu National Park. The name Poring comes from a Kadazandusun word for a bamboo species found in the area. Poring is known for its hot springs and the popular recreation and tourist complex is known as Poring Hot Springs. The springs are known for their therapeutic properties and the waters with their sulphuric minerals are reputed to ease aching muscles.",
+            "itenary_image": "https://s3media.freemalaysiatoday.com/wp-content/uploads/2020/06/Sepilok-Orang-Utan-Sabah-130620.jpg",
+            "website": "",
+            "phone_number": "014-695 8577",
             "itenary_coordinate": {
-              "lon": "3.1516",
-              "lat": "101.7097"
+              "lon": "6.0457",
+              "lat": "116.7034"
             },
 
-            "address": "Menara KH Jalan Sultan Ismail",
-            "state": " Kuala Lumpur",
-            "postcode": "50450"
-
-          },
-
-          {
-
-            "itenary_id": "4",
-            "itenary_location_name": "Symphony Lake Water Show ",
-            "itenary_description": "Situated on the southeast side of the Petronas Towers is a city center green space, KLCC Park. The 50-acre garden features tropical foliage, more than 1km of walking trails and a man-made pond, Symphony Lake.  At the lake’s edge, just opposite the entrance to Suria KLCC, fountains spray water is a dazzling display – with the largest fountain able to spout water to the height of 350 feet. At night, the fountains are accompanied by music and lights in an incredible water show. Note: Special shows occur at 8:00pm, 9:00pm and 10:00pm.",
-            "itenary_image": "http://asiamarvels.com/wp-content/uploads/2017/04/klcc-park-fountain-show-time-7-e1491637266204.jpg",
-            "website": "https://www.suriaklcc.com.my/attractions/esplanade-lake-symphony/",
-            "phone_number": "",
-            "itenary_coordinate": {
-              "lon": "3.1577",
-              "lat": "101.7122"
-            },
-
-            "address": "241, Suria KLCC, Kuala Lumpur City Centre",
-            "state": " Kuala Lumpur",
-            "postcode": "50088"
+            "address": " Ranau ",
+            "state": " Sabah",
+            "postcode": "89300"
 
           },
           {
-
+          "itenary_id": "4",
+          "itenary_location_name": "Kundasang War Memorial",
+          "itenary_description": "The establishment of the memorial can be traced back to Major G.S. Carter DSO, a New Zealand war veteran and employee of the Shell Oil Co. (Borneo), who gave the ideas for the construction of the memorial in 1962.",
+          "itenary_image":"https://2.bp.blogspot.com/-8gsYn1rKwF4/XExWA2pomRI/AAAAAAAA6gw/_Uukec4WzZcYjNDGiqX16rx05_koKvqtACLcBGAs/s1600/Photo%2B1.jpg",
+          "website":"",
+          "phone_number":"019-899 2041",
+          "itenary_coordinate":{
+            "lon": "5.9872",
+            "lat":"116.5764"
+          },
+          "address":"Jalan Kundasang Kauluan, Ranau",
+          "state": "Sabah",
+          "postcode":"89300"
+          },
+          {
             "itenary_id": "5",
-            "itenary_location_name": "Tapak Urban Street Dining ",
-            "itenary_description": "TAPAK is the brainchild of 3 good high school friends from different study background, sharing the same love for street food. Established in 2016, TAPAK became Malaysia’s 1st food truck park that brings together local food truck operators and food lovers towards urban street dining culture. ",
-            "itenary_image": "http://asiamarvels.com/wp-content/uploads/2017/04/klcc-park-fountain-show-time-7-e1491637266204.jpg",
-            "website": "https://www.suriaklcc.com.my/attractions/esplanade-lake-symphony/",
-            "phone_number": "",
-            "itenary_coordinate": {
-              "lon": "3.1577",
-              "lat": "101.7122"
+            "itenary_location_name": "Kundasang War Memorial",
+            "itenary_description": "The establishment of the memorial can be traced back to Major G.S. Carter DSO, a New Zealand war veteran and employee of the Shell Oil Co. (Borneo), who gave the ideas for the construction of the memorial in 1962.",
+            "itenary_image":"https://2.bp.blogspot.com/-8gsYn1rKwF4/XExWA2pomRI/AAAAAAAA6gw/_Uukec4WzZcYjNDGiqX16rx05_koKvqtACLcBGAs/s1600/Photo%2B1.jpg",
+            "website":"",
+            "phone_number":"019-899 2041",
+            "itenary_coordinate":{
+              "lon": "5.9872",
+              "lat":"116.5764"
             },
-
-            "address": "241, Suria KLCC, Kuala Lumpur City Centre",
-            "state": " Kuala Lumpur",
-            "postcode": "50088"
-
+            "address":"Jalan Kundasang Kauluan, Ranau",
+            "state": "Sabah",
+            "postcode":"89300"
           }
-
         ],
-
         "day2": [
-
           {
             "itenary_id": "0",
             "itenary_location_name": "KL Tower ",
@@ -142,10 +329,7 @@
             "address": "No. 2 Jalan Punchak Off, Jalan P. Ramlee",
             "state": " Kuala Lumpur",
             "postcode": "50250"
-          }
-        ]
-
-      },
+          }, 
       {
         "itenary_id": "1",
         "itenary_location_name": "KL Forest Eco Park",
@@ -181,7 +365,9 @@
 
     ]
 
-  }],
+  }
+],
+
 
   "food": [{
     "id": "0",
