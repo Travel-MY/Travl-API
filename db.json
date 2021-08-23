@@ -54,9 +54,9 @@
   ]
 },
 
-    "itenaries/Kuala-Lumpur": 
+    "itenaries-Kuala-Lumpur": 
     {
-      "itenaries/Kuala-Lumpur" : 
+      "itenaries-Kuala-Lumpur" : 
       [
         {
           "day1": 
@@ -233,9 +233,9 @@
       ]
     },
 
-    "itenaries/Sabah":
+    "itenaries-Sabah":
     {
-      "itenaries/Sabah":[
+      "itenaries-Sabah":[
         {
         "day1": [
           {
@@ -396,9 +396,9 @@
 ]
 },
 
-"itenaries/Melaka":
+"itenaries-Melaka":
 {
-  "itenaries/Melaka":[
+  "itenaries-Melaka":[
     {
       "day1":[
         {
@@ -545,9 +545,9 @@
     }
   ]
 },
-"itenaries/Pulau-Pinang":
+"itenaries-Pulau-Pinang":
 {
-  "itenaries/Pulau-Pinang":[
+  "itenaries-Pulau-Pinang":[
     {
       "day1":[
         {
