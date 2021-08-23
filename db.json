@@ -33,14 +33,26 @@
         "itenary": "Melaka",
         "image": "https://images.unsplash.com/photo-1571761348738-f448a9739ff5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=281&q=80",
         "slogan": "Heritage from the 15th Century",
-        "description": "At its center, Jonker Street, Chinatown’s main thoroughfare, is known for antique shops and its night market. Nearby, the 17th-century Chinese Cheng Hoon Teng temple has ornate decorations and multiple prayer halls. A green, 3-tiered roof tops the 18th-century, Javanese-influenced Kampung Kling Mosque",
+        "description": "At its center, Jonker Street, Chinatown’s main thoroughfare, is known for antique shops and its night market. Nearby, the 17th-century Chinese Cheng Hoon Teng temple has ornate decorations and multiple prayer halls. A green, 3-tiered roof tops the 18th-century, Javanese-influenced Kampung Kling Mosque.",
         "coordinate":{
           "lon": 2.1896,
           "lat": 102.2501
         }
+      },
+      {
+        "id": 3,
+        "location_name": "Pulau Pinang",
+        "itenary": "Pulau-Pinang",
+        "image": "http://static.asiawebdirect.com/m/kl/portals/penang-ws/homepage/penang-attractions/placevisit/allParagraphs/BucketComponent/ListingContainer/01111110/image/1200-penang-bridge.jpg",
+        "slogan": "Colorful, Multicultural Capital of the Malaysian island",
+        "description": "Nicknamed the Pearl of the Orient, Penang is famous for its soft sandy beaches and is fondly regarded as the food capital of Malaysia. Some of the most interesting sites of Penang include the sandy beaches of Tanjung Bungah, the landscape from the summit of Penang Hill and the vipers in the Snake Temple.",
+        "coordinate":{
+          "lon": 5.4164,
+          "lat": 100.3327
       }
-    ]
-  },
+    }
+  ]
+},
 
     "itenaries/Kuala-Lumpur": 
     {
@@ -478,6 +490,81 @@
           "address": "Jalan Persisiran Bunga Raya",
           "state": "Melaka",
           "postcode": "75100"
+        }
+      ],
+      "day2":[
+        {
+          "itenary_id": 0,
+          "itenary_location_name": " Hang Jebat Mausoleum ",
+          "itenary_description": "Hang Jebat Mausoleum is a burial ground along Jalan Kampung Kuli in Malacca dedicated to the legendary warrior Hang Jebat. Also known as Makam Hang Jebat, the crypt clearly predates the 1512 Portuguese occupation, but its exact date of construction (as well as its authenticity) remains a mystery.",
+          "itenary_image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Hang_Jebat_Mausoleum.JPG",
+          "website": "",
+          "phone_number": "06-283 6538",
+          "itenary_coordinate": {
+            "lon": 2.1966,
+            "lat": 102.2487
+          },
+
+          "address": "Jalan Kampung Kuli",
+          "state": " Melaka",
+          "postcode": "75200"
+        },
+        {
+          "itenary_id": 1,
+          "itenary_location_name": " Muzium Samudera (Flor de La Mar) ",
+          "itenary_description": "Melaka Maritime Museum is a replica of the Flor de la Mar, a Portuguese ship said to have been carrying loot plundered from Malacca when it sank off the coast of Malacca on its way back to Portugal. Opened to the public in 1994, this unique museum is an enlightening trip back into Malacca’s past. he 34m-high, 36m-long and eight-metre-wide structure is located at Quayside Road (right beside the. Set 10 minutes away from the Dutch Square, the Melaka Maritime Museum is divided into the different eras that Malacca has gone through, from the Melaka Sultanate period, to Portuguese, Dutch and British rule.",
+          "itenary_image": "http://www.perzim.gov.my/wp-content/uploads/2018/12/muzium_samudera4.jpg",
+          "website": "",
+          "phone_number": "06-282 6526",
+          "itenary_coordinate": {
+            "lon": 2.1919,
+            "lat": 102.2466
+          },
+
+          "address": "Jln Merdeka, Bandar Hilir",
+          "state": " Melaka",
+          "postcode": "75000"
+        },
+        {
+          "itenary_id": 2,
+          "itenary_location_name": "Melaka Crocodile Farm ",
+          "itenary_description": "Known as Taman Buaya Melaka, First opened in 1987, the farm has some pretty cool species of crocodiles and alligators, ranging from an enormous American alligator, a stripy-looking spectacled caiman and pale Indian marsh mugger crocodiles. Featuring incredible live shows every weekend and school holidays at 11:30 and 14:30, the crocodiles are all housed in manmade, swamp-like conditions similar to their natural habitat.",
+          "itenary_image": "https://lokasipercutian.com/wp-content/uploads/2020/12/Taman-Buaya-Rekreasi-Melaka-11.jpeg",
+          "website": "",
+          "phone_number": "06-232 2350",
+          "itenary_coordinate": {
+            "lon": 2.2772,
+            "lat": 102.2980
+          },
+
+          "address": " Lebuh Ayer Keroh",
+          "state": " Melaka",
+          "postcode": "75450"
+        }
+      ]
+    }
+  ]
+},
+"itenaries/Pulau-Pinang":
+{
+  "itenaries/Pulau-Pinang":[
+    {
+      "day1":[
+        {
+          "itenary_id": 1,
+          "itenary_location_name": "Penang Hill",
+          "itenary_description": "Penang Hill is mainly a hilly granitic mass. The hill system is higher towards the northern part with its highest point at Western Hill, at an elevation of 833 m (2,733 ft) above sea level. Other than Western Hill, there are a number of peaks in the region, such as Bukit Laksamana (Malay for Admiral Hill), Tiger Hill, Flagstaff Hill, Haliburton's Hill and Government Hill.Flagstaff Hill is 735 m (2,411 ft) above sea level. A number of small rivers and streams originate from the region. Sungai Pinang (Malay for Penang River) is the largest of the rivers, and it starts from a number of tributaries in the area.",
+          "itenary_image": "https://images.unsplash.com/photo-1597141439895-26b45a8cdd4e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=676&q=80",
+          "website": "https://penanghill.gov.my/index.php/en/",
+          "phone_number": "04-8288880",
+          "itenary_coordinate": {
+            "lon": 5.4085,
+            "lat": 100.2773
+          },
+
+          "address": " Bangunan Perbadanan Bukit Bendera Pulau Pinang, Jalan Stesen Bukit Bendera ",
+          "state": " Pulau Pinang",
+          "postcode": "11500"
         }
       ]
     }
