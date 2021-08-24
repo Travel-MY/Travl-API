@@ -54,12 +54,12 @@
   ]
 },
 
-    "itenaries/Kuala-Lumpur": 
+    "itenaries-Kuala-Lumpur": 
     {
-      "itenaries/Kuala-Lumpur" : 
+      "itenaries" : 
       [
         {
-          "day1": 
+          "day":[
           [
             {
       
@@ -116,7 +116,6 @@
               "postcode": "50088"
       
             },
-      
             {
       
               "itenary_id": 3,
@@ -135,7 +134,6 @@
               "postcode": "50450"
       
             },
-      
             {
       
               "itenary_id": 4,
@@ -174,8 +172,6 @@
             }
       
           ],
-      
-          "day2": 
           [
       
             {
@@ -227,6 +223,7 @@
               "postcode": "50200"
             }  
           ]
+        ]
       
         }
 
