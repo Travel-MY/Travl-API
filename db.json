@@ -43,7 +43,7 @@
         "id": 3,
         "location_name": "Pulau Pinang",
         "itenary": "Pulau-Pinang",
-        "image": "http://static.asiawebdirect.com/m/kl/portals/penang-ws/homepage/penang-attractions/placevisit/allParagraphs/BucketComponent/ListingContainer/01111110/image/1200-penang-bridge.jpg",
+        "image": "https://images.unsplash.com/photo-1586170112001-cae1293f4c5e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
         "slogan": "Colorful, Multicultural Capital of the Malaysian island",
         "description": "Nicknamed the Pearl of the Orient, Penang is famous for its soft sandy beaches and is fondly regarded as the food capital of Malaysia. Some of the most interesting sites of Penang include the sandy beaches of Tanjung Bungah, the landscape from the summit of Penang Hill and the vipers in the Snake Temple.",
         "coordinate":{
@@ -54,9 +54,9 @@
   ]
 },
 
-    "itenaries-Kuala-Lumpur": 
+    "itenaries/Kuala-Lumpur": 
     {
-      "itenaries-Kuala-Lumpur" : 
+      "itenaries/Kuala-Lumpur" : 
       [
         {
           "day1": 
@@ -233,9 +233,9 @@
       ]
     },
 
-    "itenaries-Sabah":
+    "itenaries/Sabah":
     {
-      "itenaries-Sabah":[
+      "itenaries/Sabah":[
         {
         "day1": [
           {
@@ -396,9 +396,9 @@
 ]
 },
 
-"itenaries-Melaka":
+"itenaries/Melaka":
 {
-  "itenaries-Melaka":[
+  "itenaries/Melaka":[
     {
       "day1":[
         {
@@ -545,9 +545,9 @@
     }
   ]
 },
-"itenaries-Pulau-Pinang":
+"itenaries/Pulau-Pinang":
 {
-  "itenaries-Pulau-Pinang":[
+  "itenaries/Pulau-Pinang":[
     {
       "day1":[
         {
