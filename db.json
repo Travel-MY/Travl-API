@@ -57,7 +57,6 @@
     "itenaries-Kuala-Lumpur": 
     {
       "itenaries" : 
-      [
         {
           "days":[
           [
@@ -227,13 +226,13 @@
       
         }
 
-      ]
+      
     },
 
     "itenaries-Sabah":
     {
       "itenaries":
-      [
+      
         {
           "days" : [
             [
@@ -393,12 +392,12 @@
           ]
           
         }
-]
+
 },
 
 "itenaries-Melaka":
 {
-  "itenaries":[
+  "itenaries":
     {
       "days" : [
         [
@@ -545,11 +544,11 @@
         ]
       ]
     }
-  ]
+  
 },
 "itenaries-Pulau-Pinang":
 {
-  "itenaries":[
+  "itenaries":
     {
       "days":[
         [
@@ -572,7 +571,7 @@
         ]
       ]
     }
-  ]
+  
 },
 
 "food": 
