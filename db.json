@@ -553,7 +553,7 @@
       "days":[
         [
           {
-            "itenary_id": 1,
+            "itenary_id": 0,
             "itenary_location_name": "Penang Hill",
             "itenary_description": "Penang Hill is mainly a hilly granitic mass. The hill system is higher towards the northern part with its highest point at Western Hill, at an elevation of 833 m (2,733 ft) above sea level. Other than Western Hill, there are a number of peaks in the region, such as Bukit Laksamana (Malay for Admiral Hill), Tiger Hill, Flagstaff Hill, Haliburton's Hill and Government Hill.Flagstaff Hill is 735 m (2,411 ft) above sea level. A number of small rivers and streams originate from the region. Sungai Pinang (Malay for Penang River) is the largest of the rivers, and it starts from a number of tributaries in the area.",
             "itenary_image": "https://images.unsplash.com/photo-1597141439895-26b45a8cdd4e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=676&q=80",
@@ -567,6 +567,136 @@
             "address": " Bangunan Perbadanan Bukit Bendera Pulau Pinang, Jalan Stesen Bukit Bendera ",
             "state": " Pulau Pinang",
             "postcode": "11500"
+          },
+          {
+            "itenary_id": 1,
+            "itenary_location_name": "Penang Street Art",
+            "itenary_description": "The street art expresses the daily life of the people of Penang in a sweet and sometimes funny and humorous way, almost like cartoon comics. As you walk around the streets of George Town, they will put a smile on your face or make you think and reflect about the local way of life in here.",
+            "itenary_image": "https://images.unsplash.com/photo-1585747477469-502ca39d8a08?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "website": "",
+            "phone_number": "",
+            "itenary_coordinate": {
+              "lon": 5.4146,
+              "lat": 100.3381
+            },
+  
+            "address": " 316, Beach Street Georgetown ",
+            "state": " Pulau Pinang",
+            "postcode": "10300"
+          },
+          {
+            "itenary_id": 2,
+            "itenary_location_name": "Batu Ferringhi Night Market",
+            "itenary_description": "this massive night market with over 100 stalls and tons of character is the perfect place to pick up traditional souvenirs, including batik prints, lacquer plates, and delicate paper lamps. There are also plenty of chances to find copies of famous clothes, watches and purses brands, as well as other small treasures.",
+            "itenary_image": "https://media.timeout.com/images/101777229/1024/576/image.jpg",
+            "website": "",
+            "phone_number": "",
+            "itenary_coordinate": {
+              "lon": 5.4712,
+              "lat": 100.2465
+            },
+  
+            "address": " Jalan Pantai Batu, Taman Pantai Batu ",
+            "state": " Pulau Pinang",
+            "postcode": "11200"
+          },
+          {
+            "itenary_id": 3,
+            "itenary_location_name": "Entopia by Penang Butterfly Farm",
+            "itenary_description": "Trails crisscross through the greenhouse, offering many chances to see butterflies in their natural element, including small caves, a wild garden, a backyard area, and more. Special events throughout the day allow visitors to interact with butterflies up close and learn about unique and rare species.",
+            "itenary_image": "https://cdn.star2.com/wp-content/uploads/2017/01/str2_arnoldfounder_m_dl.jpg",
+            "website": "https://www.entopia.com/",
+            "phone_number": "04-888 8111",
+            "itenary_coordinate": {
+              "lon": 5.4476,
+              "lat": 100.2150
+            },
+  
+            "address": " 830, Jalan Teluk Bahang ",
+            "state": " Pulau Pinang",
+            "postcode": "11050"
+          },
+          {
+            "itenary_id": 4,
+            "itenary_location_name": "The Top Komtar Penang",
+            "itenary_description": "This tall building conducts entertainment activities like Magic Mirror Maze, 7D Discovery Motion Theatre, Ocean Explorer, Window of the Top, DanceOki, Rainbow Skywalk, etc. Keep yourself full by stopping by at one of the several restaurants in-between all the fun.",
+            "itenary_image": "https://images.unsplash.com/photo-1610977869405-e3743ff42fac?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80",
+            "website": "https://thetop.com.my/",
+            "phone_number": "04-375 9800",
+            "itenary_coordinate": {
+              "lon": 5.4146,
+              "lat": 100.3299
+            },
+  
+            "address": " 1, Jln Penang, George Town ",
+            "state": " Pulau Pinang",
+            "postcode": "10000"
+          },
+          {
+            "itenary_id": 5,
+            "itenary_location_name": "Penang State Museum and Art Gallery",
+            "itenary_description": "This 1821 colonial building is like entering into the doors of the ancient times because every corner right from the gate onwards narrates the history of Penang. Holding a significant place in the Penang tourist places, this museum is a treasure of galleries, artefacts, creativity, and costumes which express the events from the past in a manner that one can easily relate to.",
+            "itenary_image": "https://www.makemytrip.com/travel-guide/media/dg_image/penang/George-Town_Wikimedia-Commons_Cmglee_0.jpg",
+            "website": "https://penangmuseum.gov.my/",
+            "phone_number": "04-226 1439",
+            "itenary_coordinate": {
+              "lon": 5.420556,
+              "lat": 100.3375
+            },
+  
+            "address": "Lebuh Farquhar, George Town ",
+            "state": " Pulau Pinang",
+            "postcode": "10450"
+          }
+        ],
+        [
+          {
+            "itenary_id": 0,
+            "itenary_location_name": "Pinang Peranakan Mansion",
+            "itenary_description": " the typical home of a rich Baba of a century ago is recreated to offer a glimpse of their opulent lifestyle and of their many customs and traditions. With over 1,000 pieces of antiques and collectibles of the era on display, this Baba-Nyonya museum is also housed in one of Penang’s heritage mansion of eclectic design and architecture.",
+            "itenary_image": "https://images.thrillophilia.com/image/upload/s--xDyFAUAo--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/160/242/original/1561631009_Visit_Pinang_Peranakan_Mansion.jpg.jpg",
+            "website": "http://www.pinangperanakanmansion.com.my/",
+            "phone_number": "04-264 2929",
+            "itenary_coordinate": {
+              "lon": 5.4180,
+              "lat": 100.3410
+            },
+  
+            "address": " 29, Church St, Georgetown ",
+            "state": " Pulau Pinang",
+            "postcode": "10200"
+          },
+          {
+            "itenary_id": 1,
+            "itenary_location_name": "Wonder Food Museum",
+            "itenary_description": "Penang Wonderfood Museum offers visitors a kitsch, kooky and in-depth look at the city’s unique food culture with larger-than-life displays of Malaysian dishes. Set within a 1940s colonial building in Georgetown, the museum is divided into three galleries called Info Zone, Wow Zone, and Educational Zone. All of the hyper-realistic models are handcrafted by the museum’s owner, Sean Lao who utilises food replication techniques from Japan.",
+            "itenary_image": "https://youimg1.tripcdn.com/target/100s1f000001gx5r25700_C_760_506.jpg?proc=source%2ftrip",
+            "website": "",
+            "phone_number": "04-251 9095",
+            "itenary_coordinate": {
+              "lon": 5.4163,
+              "lat": 100.3412
+            },
+  
+            "address": "49, Lebuh Pantai, George Town ",
+            "state": " Pulau Pinang",
+            "postcode": "10200"
+          },
+          {
+            "itenary_id": 2,
+            "itenary_location_name": "Escape Theme Park",
+            "itenary_description": "The natural environment around that sway with the wind in the area uplifts the theme park experience, especially when you go bungee jumping. Also conducts other adventures like flying fox, Go Ape, Gecko Tower, and Monkey Business which are all fancy names for activities like rock climbing, crossing suspension bridges and climbing uphill on a seat.",
+            "itenary_image": "https://i1.wp.com/www.dasiatravels.com/wp-content/uploads/2020/09/website-29.png?fit=600%2C350&ssl=1",
+            "website": "https://www.escape.my/",
+            "phone_number": "03-3310 0229",
+            "itenary_coordinate": {
+              "lon": 5.4497,
+              "lat": 100.2140
+            },
+  
+            "address": "828, Jalan Teluk Bahang, Teluk Bahangn ",
+            "state": " Pulau Pinang",
+            "postcode": "11050"
           }
         ]
       ]
