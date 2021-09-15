@@ -189,7 +189,6 @@
               "state": " Kuala Lumpur",
               "postcode": "50250"
             },
-
             {
               "itenary_id": 1,
               "itenary_location_name": "KL Forest Eco Park",
@@ -223,7 +222,11 @@
             }  
           ]
         ]
+<<<<<<< HEAD
       }
+=======
+      } 
+>>>>>>> main
     },
 
     "itenaries-Sabah":
@@ -268,7 +271,6 @@
               "postcode": "88000"
     
             },
-            
             {
     
               "itenary_id": 2,
@@ -385,6 +387,7 @@
                 "postcode": "88000"
               }
             ]
+<<<<<<< HEAD
           ] 
         }
       },
@@ -788,13 +791,426 @@
             "postcode": "50460",
             "phone_number": "03-2274 7088",
             "website": "null",
+=======
+          ]
+        }
+      },
 
+      "itenaries-Melaka":
+      {
+        "itenaries":
+          {
+            "days" : [
+              [
+                {
+                "itenary_id":0,
+                "itenary_location_name": "Menara Taming Sari",
+                "itenary_description": "The tower can rotate 360 ​​degrees for visitors to see the panorama of Melaka City as a whole. This tower is the first Gyro type rotating tower in Malaysia and It can accommodate up to 66 people at a time.",
+                "itenary_image": "https://cdn.thecrazytourist.com/wp-content/uploads/2018/08/ccimage-shutterstock_717952075.jpg",
+                "website": "",
+                "phone_number": "06-288 1100",
+                "itenary_coordinate": {
+                  "lon": 2.1908,
+                  "lat": 102.2471
+                },
+                "address": "Jln Merdeka, Bandar Hilir",
+                "state": "Melaka",
+                "postcode": "75000"
+              },
+              {
+                "itenary_id":1,
+                "itenary_location_name":"Jonker Street Night Market",
+                "itenary_description": "The Friday and Saturday Jonker Walk Night Market in Malacca City’s Chinatown closes down Jalan Hang Lekir to traffic and when the sun goes down here the handful of bars along the boulevard become a mini street party with tables oozing beyond the sidewalks and a mix of live music coursing throughout the area.",
+                "itenary_image": "https://cdn.thecrazytourist.com/wp-content/uploads/2018/08/ccimage-shutterstock_291737459.jpg",
+                "website":"",
+                "phone_number":"",
+                "itenary_coordinate": {
+                  "lon": 2.1948,
+                  "lat": 102.2484
+                },
+                "address": "Jalan Hang Jebat",
+                "state": "Melaka",
+                "postcode": "75200 "
+              },
+              {
+                "itenary_id":2,
+                "itenary_location_name":"A Famosa",
+                "itenary_description": "Built in 1511, the settlement used to sprawl across a whole hillside but now only a lone gate (Porta de Santiago) remains. One of the oldest surviving European architectural remains in Asia; it is set beside the Istana ke Sultanan on Jalan Kota.",
+                "itenary_image": "https://www.juniechen.com/wp-content/uploads/2014/12/blog-a-farmosa.jpg",
+                "website":"",
+                "phone_number":"",
+                "itenary_coordinate": {
+                  "lon": 2.4466,
+                  "lat": 102.2092
+                },
+                "address": "Jalan Parameswara, Bandar Hilir, Alor Gajah",
+                "state": "Melaka",
+                "postcode": "78000 "
+              },
+              {
+                "itenary_id":3,
+                "itenary_location_name":"Christ Church Melaka",
+                "itenary_description": "built by the Dutch when they took possession of Malacca from the Portuguese, it's one of Malacca’s most defining structures. Situated along Jalan Gereja (also known as Church Street) it is an instantly recognizable brick-red building with a huge white cross at the top. Sitting opposite the Stadhuys, Christ Church was built in 1753 to celebrate a century of Dutch occupation. The interior of the cathedral has 200 year-old handmade pews, decorative fanlights and plaques that honour Dutch soldiers and locals.",
+                "itenary_image": "https://images.unsplash.com/photo-1571761348738-f448a9739ff5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=281&q=80",
+                "website":"",
+                "phone_number":"06-284 8804",
+                "itenary_coordinate": {
+                  "lon": 	2.200844,
+                  "lat": 	102.240143
+                },
+                "address": "Gereja Christ, Jalan Gereja, Bandar Hilir",
+                "state": "Melaka",
+                "postcode": "75000"
+              },
+              {
+                "itenary_id":4,
+                "itenary_location_name":"Baba & Nyonya Heritage Museum",
+                "itenary_description": "At the beginning of the 16th century, merchants and entrepreneurs were lured to Malacca’s shores due to stories of the city’s burgeoning success and wealth. In particular the city saw an influx of Chinese traders who arrived in droves in an effort to escape Manchu rule. These entrepreneurs went on to marry local Malay women – descendents of these marriages were known as Peranakan or ‘Straits-born Chinese’.",
+                "itenary_image": "https://scontent.fmkz1-1.fna.fbcdn.net/v/t31.18172-8/12377713_1035326699840263_913642692751235400_o.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_ohc=TOWnWbDR3P0AX_sSbDM&_nc_ht=scontent.fmkz1-1.fna&oh=b870bb0090ffb1b3ff219f1058582fc0&oe=61462F01",
+                "website":"https://babanyonyamuseum.com/a-living-museum/",
+                "phone_number":"06-282 1273",
+                "itenary_coordinate": {
+                  "lon": 	2.195350,
+                  "lat": 	102.246700
+                },
+                "address": "48-50, Jalan Tun Tan Cheng Lock",
+                "state": "Melaka",
+                "postcode": "75200"
+              },
+              {
+                "itenary_id":5,
+                "itenary_location_name":"Melaka River Cruise",
+                "itenary_description": "The Melaka River Cruise is the only river journey in South East Asia that takes you back through these 600 years of history. Melaka is also known by the historic name of Malacca.",
+                "itenary_image": "https://images.unsplash.com/photo-1587252337395-d02401a8a814?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=626&q=80",
+                "website":"https://www.melakarivercruise.my/",
+                "phone_number":"06-281 4322",
+                "itenary_coordinate": {
+                  "lon": 	2.2073,
+                  "lat": 	102.2518
+                },
+                "address": "Jalan Persisiran Bunga Raya",
+                "state": "Melaka",
+                "postcode": "75100"
+              }
+            ],
+            [
+              {
+                "itenary_id": 0,
+                "itenary_location_name": " Hang Jebat Mausoleum ",
+                "itenary_description": "Hang Jebat Mausoleum is a burial ground along Jalan Kampung Kuli in Malacca dedicated to the legendary warrior Hang Jebat. Also known as Makam Hang Jebat, the crypt clearly predates the 1512 Portuguese occupation, but its exact date of construction (as well as its authenticity) remains a mystery.",
+                "itenary_image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Hang_Jebat_Mausoleum.JPG",
+                "website": "",
+                "phone_number": "06-283 6538",
+                "itenary_coordinate": {
+                  "lon": 2.1966,
+                  "lat": 102.2487
+                },
+      
+                "address": "Jalan Kampung Kuli",
+                "state": " Melaka",
+                "postcode": "75200"
+              },
+              {
+                "itenary_id": 1,
+                "itenary_location_name": " Muzium Samudera (Flor de La Mar) ",
+                "itenary_description": "Melaka Maritime Museum is a replica of the Flor de la Mar, a Portuguese ship said to have been carrying loot plundered from Malacca when it sank off the coast of Malacca on its way back to Portugal. Opened to the public in 1994, this unique museum is an enlightening trip back into Malacca’s past. he 34m-high, 36m-long and eight-metre-wide structure is located at Quayside Road (right beside the. Set 10 minutes away from the Dutch Square, the Melaka Maritime Museum is divided into the different eras that Malacca has gone through, from the Melaka Sultanate period, to Portuguese, Dutch and British rule.",
+                "itenary_image": "http://www.perzim.gov.my/wp-content/uploads/2018/12/muzium_samudera4.jpg",
+                "website": "",
+                "phone_number": "06-282 6526",
+                "itenary_coordinate": {
+                  "lon": 2.1919,
+                  "lat": 102.2466
+              },
+  
+                "address": "Jln Merdeka, Bandar Hilir",
+                "state": " Melaka",
+                "postcode": "75000"
+              },
+              {
+                "itenary_id": 2,
+                "itenary_location_name": "Melaka Crocodile Farm ",
+                "itenary_description": "Known as Taman Buaya Melaka, First opened in 1987, the farm has some pretty cool species of crocodiles and alligators, ranging from an enormous American alligator, a stripy-looking spectacled caiman and pale Indian marsh mugger crocodiles. Featuring incredible live shows every weekend and school holidays at 11:30 and 14:30, the crocodiles are all housed in manmade, swamp-like conditions similar to their natural habitat.",
+                "itenary_image": "https://lokasipercutian.com/wp-content/uploads/2020/12/Taman-Buaya-Rekreasi-Melaka-11.jpeg",
+                "website": "",
+                "phone_number": "06-232 2350",
+                "itenary_coordinate": {
+                  "lon": 2.2772,
+                  "lat": 102.2980
+              },
+  
+                "address": " Lebuh Ayer Keroh",
+                "state": " Melaka",
+                "postcode": "75450"
+              }
+            ]
+          ] 
+        }
+      },
+      "itenaries-Pulau-Pinang":
+      {
+        "itenaries":
+          {
+            "days":[
+              [
+                {
+                "itenary_id": 0,
+                "itenary_location_name": "Penang Hill",
+                "itenary_description": "Penang Hill is mainly a hilly granitic mass. The hill system is higher towards the northern part with its highest point at Western Hill, at an elevation of 833 m (2,733 ft) above sea level. Other than Western Hill, there are a number of peaks in the region, such as Bukit Laksamana (Malay for Admiral Hill), Tiger Hill, Flagstaff Hill, Haliburton's Hill and Government Hill.Flagstaff Hill is 735 m (2,411 ft) above sea level. A number of small rivers and streams originate from the region. Sungai Pinang (Malay for Penang River) is the largest of the rivers, and it starts from a number of tributaries in the area.",
+                "itenary_image": "https://images.unsplash.com/photo-1597141439895-26b45a8cdd4e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=676&q=80",
+                "website": "https://penanghill.gov.my/index.php/en/",
+                "phone_number": "04-8288880",
+                "itenary_coordinate": {
+                  "lon": 5.4085,
+                  "lat": 100.2773
+                },
+  
+                "address": " Bangunan Perbadanan Bukit Bendera Pulau Pinang, Jalan Stesen Bukit Bendera ",
+                "state": " Pulau Pinang",
+                "postcode": "11500"
+              },
+              {
+                "itenary_id": 1,
+                "itenary_location_name": "Penang Street Art",
+                "itenary_description": "The street art expresses the daily life of the people of Penang in a sweet and sometimes funny and humorous way, almost like cartoon comics. As you walk around the streets of George Town, they will put a smile on your face or make you think and reflect about the local way of life in here.",
+                "itenary_image": "https://images.unsplash.com/photo-1585747477469-502ca39d8a08?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+                "website": "",
+                "phone_number": "",
+                "itenary_coordinate": {
+                  "lon": 5.4146,
+                  "lat": 100.3381
+                },
+  
+                "address": " 316, Beach Street Georgetown ",
+                "state": " Pulau Pinang",
+                "postcode": "10300"
+              },
+              {
+                "itenary_id": 2,
+                "itenary_location_name": "Batu Ferringhi Night Market",
+                "itenary_description": "this massive night market with over 100 stalls and tons of character is the perfect place to pick up traditional souvenirs, including batik prints, lacquer plates, and delicate paper lamps. There are also plenty of chances to find copies of famous clothes, watches and purses brands, as well as other small treasures.",
+                "itenary_image": "https://media.timeout.com/images/101777229/1024/576/image.jpg",
+                "website": "",
+                "phone_number": "",
+                "itenary_coordinate": {
+                  "lon": 5.4712,
+                  "lat": 100.2465
+                },
+      
+                "address": " Jalan Pantai Batu, Taman Pantai Batu ",
+                "state": " Pulau Pinang",
+                "postcode": "11200"
+              },
+              {
+                "itenary_id": 3,
+                "itenary_location_name": "Entopia by Penang Butterfly Farm",
+                "itenary_description": "Trails crisscross through the greenhouse, offering many chances to see butterflies in their natural element, including small caves, a wild garden, a backyard area, and more. Special events throughout the day allow visitors to interact with butterflies up close and learn about unique and rare species.",
+                "itenary_image": "https://cdn.star2.com/wp-content/uploads/2017/01/str2_arnoldfounder_m_dl.jpg",
+                "website": "https://www.entopia.com/",
+                "phone_number": "04-888 8111",
+                "itenary_coordinate": {
+                  "lon": 5.4476,
+                  "lat": 100.2150
+                },
+      
+                "address": " 830, Jalan Teluk Bahang ",
+                "state": " Pulau Pinang",
+                "postcode": "11050"
+              },
+              {
+                "itenary_id": 4,
+                "itenary_location_name": "The Top Komtar Penang",
+                "itenary_description": "This tall building conducts entertainment activities like Magic Mirror Maze, 7D Discovery Motion Theatre, Ocean Explorer, Window of the Top, DanceOki, Rainbow Skywalk, etc. Keep yourself full by stopping by at one of the several restaurants in-between all the fun.",
+                "itenary_image": "https://images.unsplash.com/photo-1610977869405-e3743ff42fac?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80",
+                "website": "https://thetop.com.my/",
+                "phone_number": "04-375 9800",
+                "itenary_coordinate": {
+                  "lon": 5.4146,
+                  "lat": 100.3299
+                },
+  
+                "address": " 1, Jln Penang, George Town ",
+                "state": " Pulau Pinang",
+                "postcode": "10000"
+              },
+              {
+                "itenary_id": 5,
+                "itenary_location_name": "Penang State Museum and Art Gallery",
+                "itenary_description": "This 1821 colonial building is like entering into the doors of the ancient times because every corner right from the gate onwards narrates the history of Penang. Holding a significant place in the Penang tourist places, this museum is a treasure of galleries, artefacts, creativity, and costumes which express the events from the past in a manner that one can easily relate to.",
+                "itenary_image": "https://www.makemytrip.com/travel-guide/media/dg_image/penang/George-Town_Wikimedia-Commons_Cmglee_0.jpg",
+                "website": "https://penangmuseum.gov.my/",
+                "phone_number": "04-226 1439",
+                "itenary_coordinate": {
+                  "lon": 5.420556,
+                  "lat": 100.3375
+                },
+      
+                "address": "Lebuh Farquhar, George Town ",
+                "state": " Pulau Pinang",
+                "postcode": "10450"
+              }
+            ],
+            [
+              {
+                "itenary_id": 0,
+                "itenary_location_name": "Pinang Peranakan Mansion",
+                "itenary_description": " the typical home of a rich Baba of a century ago is recreated to offer a glimpse of their opulent lifestyle and of their many customs and traditions. With over 1,000 pieces of antiques and collectibles of the era on display, this Baba-Nyonya museum is also housed in one of Penang’s heritage mansion of eclectic design and architecture.",
+                "itenary_image": "https://images.thrillophilia.com/image/upload/s--xDyFAUAo--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/160/242/original/1561631009_Visit_Pinang_Peranakan_Mansion.jpg.jpg",
+                "website": "http://www.pinangperanakanmansion.com.my/",
+                "phone_number": "04-264 2929",
+                "itenary_coordinate": {
+                  "lon": 5.4180,
+                  "lat": 100.3410
+                },
+      
+                "address": " 29, Church St, Georgetown ",
+                "state": " Pulau Pinang",
+                "postcode": "10200"
+              },
+              {
+                "itenary_id": 1,
+                "itenary_location_name": "Wonder Food Museum",
+                "itenary_description": "Penang Wonderfood Museum offers visitors a kitsch, kooky and in-depth look at the city’s unique food culture with larger-than-life displays of Malaysian dishes. Set within a 1940s colonial building in Georgetown, the museum is divided into three galleries called Info Zone, Wow Zone, and Educational Zone. All of the hyper-realistic models are handcrafted by the museum’s owner, Sean Lao who utilises food replication techniques from Japan.",
+                "itenary_image": "https://youimg1.tripcdn.com/target/100s1f000001gx5r25700_C_760_506.jpg?proc=source%2ftrip",
+                "website": "",
+                "phone_number": "04-251 9095",
+                "itenary_coordinate": {
+                  "lon": 5.4163,
+                  "lat": 100.3412
+                },
+      
+                "address": "49, Lebuh Pantai, George Town ",
+                "state": " Pulau Pinang",
+                "postcode": "10200"
+              },
+              {
+                "itenary_id": 2,
+                "itenary_location_name": "Escape Theme Park",
+                "itenary_description": "The natural environment around that sway with the wind in the area uplifts the theme park experience, especially when you go bungee jumping. Also conducts other adventures like flying fox, Go Ape, Gecko Tower, and Monkey Business which are all fancy names for activities like rock climbing, crossing suspension bridges and climbing uphill on a seat.",
+                "itenary_image": "https://i1.wp.com/www.dasiatravels.com/wp-content/uploads/2020/09/website-29.png?fit=600%2C350&ssl=1",
+                "website": "https://www.escape.my/",
+                "phone_number": "03-3310 0229",
+                "itenary_coordinate": {
+                  "lon": 5.4497,
+                  "lat": 100.2140
+                },
+      
+                "address": "828, Jalan Teluk Bahang, Teluk Bahangn ",
+                "state": " Pulau Pinang",
+                "postcode": "11050"
+              }
+            ]
+          ]
+        }
+      },
 
+      "food": 
+        {
+         "food": 
+            [
+              {
+              "id": 0,
+              "location_name": "Nasi Lemak Wanjo Kg Baru ",
+              "image": "https://live.staticflickr.com/798/26107233167_200afcb34b_b.jpg",
+              "description": "Formerly known as Nasi Lemak Mak Wanjo, the restaurant has been operating for 55 years as they started as a regular roadside stall. Today Nasi Lemak Wanjo is highly regarded as the best Nasi Lemak in Kuala Lumpur. ",
+          
+              "address": "8, Jalan Raja Muda Musa, ",
+              "state": "Kampung Baru",
+              "postcode": "50300",
+              "phone_number": "011-6336 1963",
+              "website": "null",
+          
+              "coordinate": {
+                "lon": 3.162697316348487,
+                "lat": 101.70441202313546
+              }
+            },
+            {
+              "id": 1,
+              "location_name": "Deen Maju Nasi Kandar",
+              "image": "https://www.penang-insider.com/livingpenang/wp-content/uploads/2021/07/Deen_Maju_nasi_kandar.jpg",
+              "description": "Popular street stand known for nasi kandar, a traditional local favorite of rice & curries. ",
+          
+              "address": "170, Jalan Gurdwara,",
+              "state": "George Town",
+              "postcode": "10300",
+              "phone_number": "012-425 2421",
+              "website": "https://www.facebook.com/deenmaju/?ref=page_internal",
+          
+              "coordinate": {
+                "lon": 5.411273,
+                "lat": 100.328135
+              }
+            },
+            {
+              "id": 2,
+              "location_name": "Bee Hwa Cafe",
+              "image": "https://1.bp.blogspot.com/-paJZg3v3Ubg/XY3hcUfZuDI/AAAAAAABAt0/WvZlJgR3gvcr3HZsD5TmCJW8GpWPsJpUACLcBGAsYHQ/s1600/Bee-Hwa-Cafe-01.jpg",
+              "description": "Bee Hwa Cafe has been operating for more than 20 years. Unlike similar shops of its era, Bee Hwa Cafe is remarkably clean and well ventilated. It is serve halal food and the most popular food is Char Kuew Tiaw. ",
+          
+              "address": "10, Lebuh Dickens,",
+              "state": "George Town",
+              "postcode": "10050",
+              "phone_number": "04-263 6092",
+              "website": "https://www.facebook.com/beehwacafe/",
+          
+              "coordinate": {
+                "lon": 5.418930,
+                "lat": 100.330920
+              }
+            },
+            {
+              "id": 3,
+              "location_name": "Valentine Roti",
+              "image": "https://www.theyumlist.net/wp-content/uploads/2012/02/IMG_1058.jpg",
+              "description": "The Best Roti Canai",
+          
+              "address": "Stor No.1, Jalan Semarak,",
+              "state": "Kuala Lumpur",
+              "postcode": "54000",
+              "phone_number": "012-717 6482",
+              "website": "https://www.facebook.com/ValentineRotiCanaiKL/",
+          
+              "coordinate": {
+                "lon": 3.081070,
+                "lat": 101.731710
+              }
+            }
+          ]
+        },
+
+      "events":
+        {
+          "events": [
+              {
+              "id": 0,
+              "events_name": "Chinese New Year",
+              "events_desc": "Chinese New Year is one of Malaysia's biggest holidays. Though the date changes each year, the way the festival is celebrated remains the same: unmarried relatives receive ang pows (money in red packets), families have reunion dinners and some people have huge feasts with lion or dragon dances.",
+              "suggested_locations": [
+            {
+              "location_name": "Thean Hou Temple",
+              "image": "https://assets.nst.com.my/images/articles/lims1_1520965479.jpg",
+              "location_description": "The Thean Hou Temple is a six-tiered temple of the Chinese sea goddess Mazu located in Kuala Lumpur, Malaysia. It is located on 1.67 acres of land atop Robson Heights on Lorong Bellamy, overlooking Jalan Syed Putra. It was completed in 1987 and officially opened in 1989",
+>>>>>>> main
+
+              "address": "65, Persiaran Endah, Taman Persiaran Desa,",
+              "state": "Kuala Lumpur",
+              "postcode": "50460",
+              "phone_number": "03-2274 7088",
+              "website": "null",
+
+<<<<<<< HEAD
             "coordinate": {
               "lat": 3.122334002766817,
               "lon": 101.68766881942878
             }
           }
+=======
+              "coordinate": {
+                "lon": 3.122334002766817,
+                "lat": 101.68766881942878
+              }
+            }
+>>>>>>> main
         ]
       }
     ]
