@@ -221,7 +221,9 @@
               "postcode": "50200"
             }  
       }
-
+          ]
+        ]
+      }
       } 
     },
 
@@ -786,7 +788,6 @@
             "postcode": "50460",
             "phone_number": "03-2274 7088",
             "website": "null",
-
           ]
         }
       },
@@ -1185,14 +1186,11 @@
               "location_name": "Thean Hou Temple",
               "image": "https://assets.nst.com.my/images/articles/lims1_1520965479.jpg",
               "location_description": "The Thean Hou Temple is a six-tiered temple of the Chinese sea goddess Mazu located in Kuala Lumpur, Malaysia. It is located on 1.67 acres of land atop Robson Heights on Lorong Bellamy, overlooking Jalan Syed Putra. It was completed in 1987 and officially opened in 1989",
-
-
               "address": "65, Persiaran Endah, Taman Persiaran Desa,",
               "state": "Kuala Lumpur",
               "postcode": "50460",
               "phone_number": "03-2274 7088",
               "website": "null",
-
 
             "coordinate": {
               "lat": 3.122334002766817,
@@ -1204,6 +1202,13 @@
                 "lat": 101.68766881942878
               }
             }        ]
+
+              "coordinate": {
+                "lon": 3.122334002766817,
+                "lat": 101.68766881942878
+              }
+            }
+        ]
       }
     ]
   }
