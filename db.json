@@ -769,30 +769,99 @@
         ]
       },
 
-    "events":
-      {
-        "events": [{
-          "id": 0,
-          "events_name": "Chinese New Year",
-          "events_desc": "Chinese New Year is one of Malaysia's biggest holidays. Though the date changes each year, the way the festival is celebrated remains the same: unmarried relatives receive ang pows (money in red packets), families have reunion dinners and some people have huge feasts with lion or dragon dances.",
+      "events":
+        {
+          "events": [{
+            "id": 0,
+            "events_name": "Chinese New Year",
+            "events_desc": "Chinese New Year is one of Malaysia's biggest holidays. Though the date changes each year, the way the festival is celebrated remains the same: unmarried relatives receive ang pows (money in red packets), families have reunion dinners and some people have huge feasts with lion or dragon dances.",
+            "suggested_locations": [{
+
+              "location_name": "Thean Hou Temple",
+              "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nst.com.my%2Fnews%2Fnation%2F2018%2F03%2F344911%2Fmalaysias-lunar-new-year-festival-celebrations-gaining-popularity-among&psig=AOvVaw1HTlDF2PbfUzQHP3ybVjA0&ust=1627481450994000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCd9_-2g_ICFQAAAAAdAAAAABAI",
+              "location_description": "The Thean Hou Temple is a six-tiered temple of the Chinese sea goddess Mazu located in Kuala Lumpur, Malaysia. It is located on 1.67 acres of land atop Robson Heights on Lorong Bellamy, overlooking Jalan Syed Putra. It was completed in 1987 and officially opened in 1989",
+
+              "address": "65, Persiaran Endah, Taman Persiaran Desa,",
+              "state": "Kuala Lumpur",
+              "postcode": "50460",
+              "phone_number": "03-2274 7088",
+              "website": "null",
+
+              "coordinate": {
+                "lat": 3.122334002766817,
+                "lon": 101.68766881942878
+              }
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "events_name": "Thaipusam",
+          "events_desc": "Thaipusam is the biggest festival for Hindus after Deepavali and usually falls in January or February. It is observed as a day of thanksgiving and paying penance for Lord Murugan.",
           "suggested_locations": [{
 
-            "location_name": "Thean Hou Temple",
-            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nst.com.my%2Fnews%2Fnation%2F2018%2F03%2F344911%2Fmalaysias-lunar-new-year-festival-celebrations-gaining-popularity-among&psig=AOvVaw1HTlDF2PbfUzQHP3ybVjA0&ust=1627481450994000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCd9_-2g_ICFQAAAAAdAAAAABAI",
-            "location_description": "The Thean Hou Temple is a six-tiered temple of the Chinese sea goddess Mazu located in Kuala Lumpur, Malaysia. It is located on 1.67 acres of land atop Robson Heights on Lorong Bellamy, overlooking Jalan Syed Putra. It was completed in 1987 and officially opened in 1989",
+            "location_name": "Batu Caves",
+            "image": "https://images.unsplash.com/flagged/photo-1560505455-11cee7a131b0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1120&q=80",
+            "location_description": "Batu Caves is a limestone hill that has a series of caves and cave temples in Gombak, Selangor, Malaysia. It takes its name from the Malay word batu, meaning 'rock'. The hill was originally known as Kapal Tanggang from the legend of Si Tanggang.",
 
-            "address": "65, Persiaran Endah, Taman Persiaran Desa,",
-            "state": "Kuala Lumpur",
-            "postcode": "50460",
-            "phone_number": "03-2274 7088",
+            "address": "Gombak",
+            "state": "Selangor",
+            "postcode": "68100",
+            "phone_number": "03-6189 6284",
             "website": "null",
 
             "coordinate": {
-              "lat": 3.122334002766817,
-              "lon": 101.68766881942878
+              "lat": 3.2379,
+              "lon": 101.6840
             }
           }
         ]
+        },
+        {
+          "id": 2,
+          "events_name": "Christmas Festival",
+          "events_desc": "Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration by billions of people around the world.",
+          "suggested_locations": [{
+
+            "location_name": "Pavilion KL",
+            "image": "https://www.wonderfulmalaysia.com/faq/files/2013/12/christmas-in-malaysia-1.jpg",
+            "location_description": "Pavilion Kuala Lumpur is a shopping centre situated in the Bukit Bintang district in Kuala Lumpur.",
+
+            "address": "168, Bukit Bintang St, Bukit Bintang",
+            "state": "Kuala Lumpur",
+            "postcode": "55100",
+            "phone_number": "03-2118 8833",
+            "website": "https://www.pavilion-kl.com/",
+
+            "coordinate": {
+              "lat": 3.1489,
+              "lon": 101.7133
+            }
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "events_name": "Eid al-Adha",
+        "events_desc": "Eid al-Adha is the latter of the two official holidays celebrated within Islam. It honors the willingness of Ibrahim to sacrifice his son Ismael as an act of obedience to God's command. Before Ibrahim could sacrifice his son, however, God provided a lamb to sacrifice instead.",
+        "suggested_locations": [{
+
+          "location_name": "Putra Mosque",
+          "image": "https://images.outlookindia.com/public/uploads/gallery/20160913/Eil-al-adha1_20160913_402_602.jpg",
+          "location_description": "he Putra Mosque is the principal mosque of Putrajaya, Malaysia is one of the VVIP mosque in Malaysia, Construction of the mosque began in 1997 and was completed two years later.",
+
+          "address": "Persiaran Persekutuan, Presint 1",
+          "state": "Wilayah Persekutuan Putrajaya",
+          "postcode": "62502",
+          "phone_number": "03-8888 5678",
+          "website": "null",
+
+          "coordinate": {
+            "lat": 2.9363,
+            "lon": 101.6891
+          }
+        }
+      ]
       }
     ]
   }
