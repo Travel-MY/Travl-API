@@ -4,55 +4,135 @@
     "locations": 
     [
       {
-      "id": 0,
-      "location_name": "Kuala Lumpur",
-      "itenary": "Kuala-Lumpur",
-      "image": "https://images.unsplash.com/photo-1520919177397-8c965d4b4fa6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1164&q=80",
-      "slogan": "Modern & Exclusive ",
-      "description": "Over the years Kuala Lumpur grew into an important Asian city. Within Malaysia Kuala Lumpur is seen as the center of the country; 'it happens all' in KL. People from all areas within Malaysia come to KL to find jobs or do business. Tourist love the city as it has numerous great sights and attractions. Besides that there are simply too many choices when it comes to dining options. ",
-      "coordinate": {
-        "lat": 3.1390,
-        "lon": 101.6869
-      }
-      },
-      {
-        "id": 1,
-        "location_name": "Sabah",
-        "itenary": "Sabah",
-        "image": "https://images.unsplash.com/photo-1571639093852-a67fa7bd5e08?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80",
-        "slogan": " Beautiful & Breezy ",
-        "description": "Sabah is a Malaysian state that occupies the northern half of Borneo's landmass. It is famous for Mount Kinabalu, the country's tallest peak, which stands 4,095 metres tall and is topped with unique granite spires. ",
-        "coordinate": {
-          "lat": 5.9788,
-          "lon": 116.0753
+          "id": 0,
+          "location_name": "Kuala Lumpur",
+          "itenary": "Kuala-Lumpur",
+          "image": "https://images.unsplash.com/photo-1520919177397-8c965d4b4fa6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1164&q=80",
+          "slogan": "Modern & Exclusive ",
+          "description": "Over the years Kuala Lumpur grew into an important Asian city. Within Malaysia Kuala Lumpur is seen as the center of the country; 'it happens all' in KL. People from all areas within Malaysia come to KL to find jobs or do business. Tourist love the city as it has numerous great sights and attractions. Besides that there are simply too many choices when it comes to dining options. ",
+          "coordinate": {
+            "lat": 3.1390,
+            "lon": 101.6869
+          }
+        },
+        {
+          "id": 1,
+          "location_name": "Sabah",
+          "itenary": "Sabah",
+          "image": "https://images.unsplash.com/photo-1571639093852-a67fa7bd5e08?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80",
+          "slogan": " Beautiful & Breezy ",
+          "description": "Sabah is a Malaysian state that occupies the northern half of Borneo's landmass. It is famous for Mount Kinabalu, the country's tallest peak, which stands 4,095 metres tall and is topped with unique granite spires. ",
+          "coordinate": {
+            "lat": 5.9788,
+            "lon": 116.0753
+          }
+        },
+        {
+          "id": 2,
+          "location_name": "Melaka",
+          "itenary": "Melaka",
+          "image": "https://images.unsplash.com/photo-1571761348738-f448a9739ff5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=281&q=80",
+          "slogan": "Heritage from the 15th Century",
+          "description": "At its center, Jonker Street, Chinatown’s main thoroughfare, is known for antique shops and its night market. Nearby, the 17th-century Chinese Cheng Hoon Teng temple has ornate decorations and multiple prayer halls. A green, 3-tiered roof tops the 18th-century, Javanese-influenced Kampung Kling Mosque.",
+          "coordinate":{
+            "lat": 2.1896,
+            "lon": 102.2501
+          }
+        },
+        {
+          "id": 3,
+          "location_name": "Pulau Pinang",
+          "itenary": "Pulau-Pinang",
+          "image": "https://images.unsplash.com/photo-1586170112001-cae1293f4c5e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+          "slogan": "Colorful, Multicultural Capital of the Malaysian island",
+          "description": "Nicknamed the Pearl of the Orient, Penang is famous for its soft sandy beaches and is fondly regarded as the food capital of Malaysia. Some of the most interesting sites of Penang include the sandy beaches of Tanjung Bungah, the landscape from the summit of Penang Hill and the vipers in the Snake Temple.",
+          "coordinate":{
+            "lat": 5.4164,
+            "lon": 100.3327
+          }
+        },
+        {
+          "id": 4,
+          "location_name": "Johor",
+          "itenary": "Johor",
+          "image": "https://images.unsplash.com/photo-1567228356349-2c5417d65087?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1333&q=80",
+          "slogan": "null",
+          "description": "Johor, a state in southern Malaysia linked to Singapore by causeways, is known for beaches and rainforest.",
+          "coordinate":{
+            "lat": 1.4854,
+            "lon": 103.7618
+          }
+        },
+        {
+          "id": 5,
+          "location_name": "Negeri Sembilan",
+          "itenary": "Negeri-Sembilan",
+          "image": "https://museumvolunteersjmm.files.wordpress.com/2016/04/8-9-ns.jpg",
+          "slogan": "Rich in tradition",
+          "description": "The name is believed to derive from the nine (sembilan) villages or nagari in the Minangkabau language (now known as luak) settled by the Minangkabau, a people originally from West Sumatra (in present-day Indonesia). Minangkabau features are still visible today in traditional architecture and the dialect of Malay spoken.",
+          "coordinate":{
+            "lat": 2.7258,
+            "lon": 101.9424
         }
       },
       {
-        "id": 2,
-        "location_name": "Melaka",
-        "itenary": "Melaka",
-        "image": "https://images.unsplash.com/photo-1571761348738-f448a9739ff5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=281&q=80",
-        "slogan": "Heritage from the 15th Century",
-        "description": "At its center, Jonker Street, Chinatown’s main thoroughfare, is known for antique shops and its night market. Nearby, the 17th-century Chinese Cheng Hoon Teng temple has ornate decorations and multiple prayer halls. A green, 3-tiered roof tops the 18th-century, Javanese-influenced Kampung Kling Mosque.",
+        "id": 6,
+        "location_name": "Terengganu",
+        "itenary": "Terengganu",
+        "image": "https://images.unsplash.com/photo-1596814369990-b3860c3398c1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1074&q=80",
+        "slogan": "The ocean of turtles",
+        "description": "The state of Terengganu overlooks the South China Sea on the east side of Malaysia. A charming holiday destination, Terengganu has a stretch of beautiful beaches and even more spectacular islands. Known as the ‘Land of Turtles’, many turtle species such as Olive Ridleys and Leatherbacks come to nest on its beaches each year.",
         "coordinate":{
-          "lat": 2.1896,
-          "lon": 102.2501
+          "lat": 5.3117,
+          "lon": 103.1324
         }
       },
       {
-        "id": 3,
-        "location_name": "Pulau Pinang",
-        "itenary": "Pulau-Pinang",
-        "image": "https://images.unsplash.com/photo-1586170112001-cae1293f4c5e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-        "slogan": "Colorful, Multicultural Capital of the Malaysian island",
-        "description": "Nicknamed the Pearl of the Orient, Penang is famous for its soft sandy beaches and is fondly regarded as the food capital of Malaysia. Some of the most interesting sites of Penang include the sandy beaches of Tanjung Bungah, the landscape from the summit of Penang Hill and the vipers in the Snake Temple.",
+        "id": 7,
+        "location_name": "Kedah",
+        "itenary": "Kedah",
+        "image": "https://images.unsplash.com/photo-1606142283622-a7886ec1d4aa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=435&q=80",
+        "slogan": "Paddy",
+        "description": "the most rice among the other states but the Government is attempting to diversify its economy, namely in industrial development.",
         "coordinate":{
-          "lat": 5.4164,
-          "lon": 100.3327
+          "lat": 6.1184,
+          "lon": 100.3685
+        }
       }
-    }
-  ]
-},
+    ]
+  },
+
+  "images":
+  {
+    "images":
+    [
+      {
+        "image_id": 0,
+        "image_name": "Kuala Lumpur",
+        "image_link": "https://images.unsplash.com/photo-1520919177397-8c965d4b4fa6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1164&q=80"
+      },
+      {
+        "image_id": 1,
+        "image_name": "Sabah",
+        "image_link": "https://images.unsplash.com/photo-1571639093852-a67fa7bd5e08?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80"
+      },
+      {
+        "image_id": 2,
+        "image_name": "Melaka",
+        "image_link": "https://images.unsplash.com/photo-1571761348738-f448a9739ff5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=281&q=80"
+      },
+      {
+        "image_id": 3,
+        "image_name": "Pulau Pinang",
+        "image_link": "https://images.unsplash.com/photo-1586170112001-cae1293f4c5e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
+      },
+      {
+        "image_id": 4,
+        "image_name": "Johor",
+        "image_link": "https://images.unsplash.com/photo-1567228356349-2c5417d65087?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1333&q=80"
+      }
+    ]
+  },
 
     "itenaries-Kuala-Lumpur": 
     {
