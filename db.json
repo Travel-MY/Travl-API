@@ -92,11 +92,83 @@
         "location_name": "Kedah",
         "itenary": "Kedah",
         "image": "https://images.unsplash.com/photo-1606142283622-a7886ec1d4aa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=435&q=80",
-        "slogan": "Paddy",
+        "slogan": "Full of paddy fields",
         "description": "the most rice among the other states but the Government is attempting to diversify its economy, namely in industrial development.",
         "coordinate":{
           "lat": 6.1184,
           "lon": 100.3685
+        }
+      },
+      {
+        "id": 8,
+        "location_name": "Kelantan",
+        "itenary": "Kelantan",
+        "image": "https://images.unsplash.com/photo-1590050343773-53dd92ea1013?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1176&q=80",
+        "slogan": "Famous in sweet foods",
+        "description": "Kelantan is a rural state in the northeast of Peninsular Malaysia. Kota Bharu, the riverside capital, is home to royal palaces like the wooden Istana Jahar. Sultan Ismail Petra Arch is an ornate timber structure with Islamic inscriptions. The central market, Pasar Siti Khadijah, is crowned by a glass dome.",
+        "coordinate":{
+          "lat": 6.1254,
+          "lon": 102.2381
+        }
+      },
+      {
+        "id": 9,
+        "location_name": "Sarawak",
+        "itenary": "Sarawak",
+        "image": "https://images.unsplash.com/photo-1628001436339-d30442c1365c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+        "slogan": "Bumi Kenyalang",
+        "description": "Sarawak, a Malaysian state on Borneo, stretches along the island’s northwest coast, including many beaches on the South China Sea. It's known for the rugged, dense rainforest of its interior, much of it protected parkland. The capital, Kuching, is a bustling city set on the Sarawak River. Its 19th-century landmarks include the Astana, former palace of the White Rajahs, and Fort Margherita, built to thwart pirates",
+        "coordinate":{
+          "lat": 1.5533,
+          "lon": 110.3592
+        }
+      },
+      {
+        "id": 10,
+        "location_name": "Pahang",
+        "itenary": "Pahang",
+        "image": "https://images.unsplash.com/photo-1602561103826-70c3dca2f4f1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1074&q=80",
+        "slogan": "",
+        "description": "Pahang is a large state in Peninsular Malaysia. It's known for its mountains, rainforests and beaches, including the white sands and coral reefs of Tioman Island off the east coast. The state capital, Kuantan, is a major seaport. In the west, the gentle hills of the Cameron Highlands include resorts, tea plantations and terraced farms, and the village of Fraser’s Hill resembles an English hamlet.",
+        "coordinate":{
+          "lat": 3.8126,
+          "lon": 103.3256
+        }
+      },
+      {
+        "id": 11,
+        "location_name": "Perlis",
+        "itenary": "Perlis",
+        "image": "https://images.unsplash.com/photo-1597380971628-dd0dace5deaa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2070&q=80",
+        "slogan": "Indera Kayangan",
+        "description": "Perlis or also known by its popular honorific title Perlis Indera Kayangan is the smallest state in Malaysia located at the northern part of the west coast of Peninsular Malaysia and has the Satun and Songkhla Provinces of Thailand on its northern border. It is bordered by the state of Kedah to the south.",
+        "coordinate":{
+          "lat": 6.4449,
+          "lon": 100.2048
+        }
+      },
+      {
+        "id": 12,
+        "location_name": "Perak",
+        "itenary": "Perak",
+        "image": "https://images.unsplash.com/photo-1495434350527-8f3d63bf008f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+        "slogan": "",
+        "description": "Perak is a state in the northwest of Peninsular Malaysia. The capital city Ipoh is known for its British colonial landmarks, including a baroque railway station. Sam Poh Tong is a huge Buddhist cave temple filled with wall paintings. The town of Gopeng is a base for rafting on the Kampar river. Off the west coast, the resort island of Pulau Pangkor has forested hills and the ruins of a 17th-century Dutch fort.",
+        "coordinate":{
+          "lat": 4.5921,
+          "lon": 101.0901
+        }
+      },
+      {
+        "id": 13,
+        "location_name": "Selangor",
+        "itenary": "Selangor",
+        "image": "https://images.unsplash.com/photo-1618671308741-24dedf9253a4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+        "slogan": "",
+        "description": "Selangor is a state on the west coast of Peninsular Malaysia, encircling the capital Kuala Lumpur. In the state capital, Shah Alam, the Sultan Salahuddin Abdul Aziz Mosque has 4 soaring minarets and a huge blue dome. To the northeast are the limestone Batu Caves, which house ornately decorated Hindu shrines. A large golden statue of the Hindu god Lord Murugan stands at the entrance, and monkeys scamper",
+        "coordinate":{
+          "lat": 3.0738,
+          "lon": 101.5183
         }
       }
     ]
@@ -130,6 +202,51 @@
         "image_id": 4,
         "image_name": "Johor",
         "image_link": "https://images.unsplash.com/photo-1567228356349-2c5417d65087?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1333&q=80"
+      },
+      {
+        "image_id": 5,
+        "image_name": "Negeri Sembilan",
+        "image_link": "https://museumvolunteersjmm.files.wordpress.com/2016/04/8-9-ns.jpg"
+      },
+      {
+        "image_id": 6,
+        "image_name": "Terengganu",
+        "image_link": "https://images.unsplash.com/photo-1596814369990-b3860c3398c1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1074&q=80"
+      },
+      {
+        "image_id": 7,
+        "image_name": "Kedah",
+        "image_link": "https://images.unsplash.com/photo-1606142283622-a7886ec1d4aa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=435&q=80"
+      },
+      {
+        "image_id": 8,
+        "image_name": "Kelantan",
+        "image_link": "https://images.unsplash.com/photo-1590050343773-53dd92ea1013?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1176&q=80"
+      },
+      {
+        "image_id": 9,
+        "image_name": "Sarawak",
+        "image_link": "https://images.unsplash.com/photo-1628001436339-d30442c1365c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+      },
+      {
+        "image_id": 10,
+        "image_name": "Pahang",
+        "image_link": "https://images.unsplash.com/photo-1602561103826-70c3dca2f4f1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1074&q=80"
+      },
+      {
+        "image_id": 11,
+        "image_name": "Perlis",
+        "image_link": "https://images.unsplash.com/photo-1597380971628-dd0dace5deaa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2070&q=80"
+      },
+      {
+        "image_id": 12,
+        "image_name": "Perak",
+        "image_link": "https://images.unsplash.com/photo-1495434350527-8f3d63bf008f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
+      },
+      {
+        "image_id": 13,
+        "image_name": "Selangor",
+        "image_link": "https://images.unsplash.com/photo-1618671308741-24dedf9253a4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
       }
     ]
   },
