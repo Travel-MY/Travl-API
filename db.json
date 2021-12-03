@@ -19,7 +19,7 @@
           "id": 1,
           "location_name": "Sabah",
           "itenary": "Sabah",
-          "image": "https://images.unsplash.com/photo-1571639093852-a67fa7bd5e08?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80",
+          "image": "https://images.unsplash.com/photo-1571643610560-4c2f7415555f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
           "slogan": " Beautiful & Breezy ",
           "description": "Sabah is a Malaysian state that occupies the northern half of Borneo's landmass. It is famous for Mount Kinabalu, the country's tallest peak, which stands 4,095 metres tall and is topped with unique granite spires. ",
           "coordinate": {
@@ -186,7 +186,7 @@
       {
         "image_id": 1,
         "image_name": "Sabah",
-        "image_link": "https://images.unsplash.com/photo-1571639093852-a67fa7bd5e08?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80"
+        "image_link": "https://images.unsplash.com/photo-1571643610560-4c2f7415555f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
       },
       {
         "image_id": 2,
@@ -890,6 +890,303 @@
         ]
       }
     },
+    "itenaries-Johor":
+    {
+      "itenaries":
+        {
+          "days":[
+            [
+              {
+              "itenary_id": 0,
+              "itenary_location_name": "Sultan Abu Bakar State Mosque",
+              "itenary_description": "The Sultan Abu Bakar State Mosque was completed in the year of 1900.The architecture of the mosque is a mix of two distinguishable styles. They are Victorian and Moorish styles with a little influence of Malay style.",
+              "itenary_image": "https://www.holidify.com/images/cmsuploads/compressed/800px-Sultan_Abu_Bakar_Mosque_560493914_20200103184549.jpg",
+              "website": "",
+              "phone_number": "",
+              "itenary_coordinate": {
+                "lat":1.4569,
+                "lon": 103.7513
+              },
+
+              "address": " Jalan Gertak Merah, Masjid Sultan Abu Bakar, ",
+              "state": " Johor",
+              "postcode": "80000"
+            },
+            {
+              "itenary_id": 1,
+              "itenary_location_name": "Johor Zoo",
+              "itenary_description": "Johor Zoo was one of the first zoos to be built in Southeast Asia and dates from 1928. There are over a hundred different species of animals here and you can expect to find gorillas, elephants, lions, and flamingoes, to name just a few examples of the fauna on show",
+              "itenary_image": "https://images.unsplash.com/photo-1633704348270-8487cbf345f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1025&q=80",
+              "website": "",
+              "phone_number": "07-223 0404",
+              "itenary_coordinate": {
+                "lat": 1.4575,
+                "lon": 103.7522
+              },
+
+              "address": "Jalan Gertak Merah, Taman Istana",
+              "state": "Johor Bahru",
+              "postcode": "80000"
+            },
+            {
+              "itenary_id": 2,
+              "itenary_location_name": "LEGOLAND Malaysia",
+              "itenary_description": "The first of its kind in Asia, this massive LEGO-themed destination that boasts over 15,000 LEGO models made from over 60 million bricks brings together a theme park, water park, and hotel in one location for the ultimate getaway for LEGO lovers.",
+              "itenary_image": "https://i1.wp.com/en.blog.kkday.com/wp-content/uploads/featured_legoland.jpg?zoom=1.3499999046325684&resize=655%2C437&ssl=1",
+              "website": "https://www.legoland.com.my/",
+              "phone_number": "07-597 8888",
+              "itenary_coordinate": {
+                "lat": 1.4266,
+                "lon": 103.6317
+              },
+
+              "address": "No 7, Persiaran Medini Utara 3, Bandar",
+              "state": "Johor Bahru",
+              "postcode": "79250"
+            },
+            {
+              "itenary_id": 3,
+              "itenary_location_name": "Bukit Serene Palace",
+              "itenary_description": "Istana Bukit Serene is the royal palace and official residence of the Sultan of Johor, located in Johor Bahru, Malaysia. The palace faces the Straits of Johor and has a bird's eye view of Singapore, a former possession of the Sultanate. From historical records, the palace was completed in 1933.",
+              "itenary_image": "https://cdn.thecrazytourist.com/wp-content/uploads/2021/05/ccimage-shutterstock_1402833473.jpg",
+              "website": "",
+              "phone_number": "",
+              "itenary_coordinate": {
+                "lat": 1.4798,
+                "lon": 103.7262
+              },
+
+              "address": "Jalan Straits View, Bukit Serene",
+              "state": "Johor Bahru",
+              "postcode": "80200"
+            },
+            {
+              "itenary_id": 4,
+              "itenary_location_name": "Danga Bay Park",
+              "itenary_description": "Danga Bay is the largest recreational park in the city of Johor Bahru, Johor, Malaysia. It was developed by Tan Sri Datuk Lim Kang Hoo via Ekovest Berhad and is located near Istana Bukit Serene, about 7 km from Johor Bahru's city centre.",
+              "itenary_image": "https://cdn.thecrazytourist.com/wp-content/uploads/2018/08/ccimage-shutterstock_156106559.jpg",
+              "website": "",
+              "phone_number": "",
+              "itenary_coordinate": {
+                "lat": 1.4761,
+                "lon": 103.7235
+              },
+
+              "address": "Jalan Bertingkat Skudai, Danga Bay",
+              "state": "Johor Bahru",
+              "postcode": "80200"
+            }
+          ],
+          [
+            {
+              "itenary_id": 0,
+              "itenary_location_name": "Johor Premium Outlet",
+              "itenary_description": "Johor Premium Outlets is a mall in Indahpura, Malaysia with 130 designer and name brand outlet stores as of 2021. The center is operated by Genting Simon Sdn Bhd and is part of the Genting Simon Group, which is a joint venture between Genting Plantations Berhad and Simon Property Group.",
+              "itenary_image": "https://cdn.thecrazytourist.com/wp-content/uploads/2018/08/ccimage-shutterstock_688365883.jpg",
+              "website": "https://www.premiumoutlets.com.my/johor-premium-outlets",
+              "phone_number": "07-661 8888",
+              "itenary_coordinate": {
+                "lat": 5.4146,
+                "lon": 100.3381
+              },
+
+              "address": "Jalan Premium Outlets, Bandar Indahpura",
+              "state": "Kulai, Johor",
+              "postcode": "81000"
+            },
+            {
+              "itenary_id": 1,
+              "itenary_location_name": "Rawa Island",
+              "itenary_description": "Rawa Island Resort is an idyllic Malaysia tropical island resort popular with families looking to unwind from the stress and strain of modern life. Feel the grains of white, sun-baked sand between your toes as you stroll along the beach. Take a dip in the warm waters of the South China Sea. Enjoy the green scenery. Snorkel along the natural coral reef just metres from the shore. Or simply relax as you watch the sun disappear lazily over the orange horizon. ",
+              "itenary_image": "https://rawaislandresort.com/sites/default/files/inline-images/about2_0.jpg",
+              "website": "https://rawaislandresort.com/",
+              "phone_number": "",
+              "itenary_coordinate": {
+                "lat": 2.5204,
+                "lon": 103.9760
+              },
+
+              "address": "Rawa Island",
+              "state": "Mersing, Johor",
+              "postcode": "86800"
+            },
+            {
+              "itenary_id": 2,
+              "itenary_location_name": "Kite Museum",
+              "itenary_description": "Opened in 2002, the Pasir Gudang Kite Museum, or Muzium Layang-Layang as it is called in Malay, has the claim to fame of being the first museum in Malaysia to be completely dedicated to the history and cultural impact of these colorful kites.",
+              "itenary_image": "https://blog.travelbuddee.com/wp-content/uploads/2016/05/xPasir-Gudang-Kite-Museum-Johor.jpg.pagespeed.ic.KcyUQm1aiD.webp",
+              "website": "",
+              "phone_number": "07-252 7796",
+              "itenary_coordinate": {
+                "lat": 1.4750,
+                "lon": 103.9064
+              },
+
+              "address": "Komplek Pusat Bandar, Pasir Gudang",
+              "state": "Pasir Gudang, Johor",
+              "postcode": "81700"
+            }
+          ]
+        ]
+      }
+    },
+    "itenaries-Negeri-Sembilan":
+    {
+      "itenaries":
+        {
+          "days":[
+            [
+              {
+              "itenary_id": 0,
+              "itenary_location_name": "Royal Museum Seri Menanti",
+              "itenary_description": "Seri Menanti Royal Palace is situated in Sri Menanti Town of Negeri Sembilan. The palace is made from Eusidero xylon zwageri wood (kayu belian) without the use of nails. Built in 1902, it has the uniqueness of Minangkabau architecture characteristic features. The building black colour gives it the air of elegance prominence when seen from a distant. It is 65 feet tall with 99 wooden stilts at the height of 65 feet. Various flowery designs were carved onto the ‘belian' wood in building the palace.",
+              "itenary_image": "https://cdn.trixoli.com/royal-museum-seri-menanti-muzium-diraja-seri-menanti-min.jpg",
+              "website": "",
+              "phone_number": "06-497 9653",
+              "itenary_coordinate": {
+                "lat":2.6975,
+                "lon": 102.1579
+              },
+
+              "address": "Seri Menanti",
+              "state": "Kuala Pilah, Negeri Sembilan",
+              "postcode": "71550"
+            },
+            {
+              "itenary_id": 1,
+              "itenary_location_name": "Alive 3D Art Gallery",
+              "itenary_description": "Alive 3D Art Gallery is a unique gallery with 50 drawings and illusions exhibits for the visitors to have a mind-blowing time. This gallery is split into 5 categories: adventure, animation, aquarium, dark and exotic with each gallery offering their respective illusions to trick your eyes.",
+              "itenary_image": "https://cdn.trixoli.com/alive-3d-art-gallery-min.jpg",
+              "website": "",
+              "phone_number": "012-611 7379",
+              "itenary_coordinate": {
+                "lat": 2.5599,
+                "lon": 101.8173
+              },
+
+              "address": "N0 38-40, Jalan DS 2/1, Bandar Dataran Segar, Lukut",
+              "state": "Port Dickson, Negeri Sembilan",
+              "postcode": "71010"
+            },
+            {
+              "itenary_id": 2,
+              "itenary_location_name": "Teluk Kemang Observatory",
+              "itenary_description": "Teluk Kemang Observatory, also known as Baitul Hilal, is a lunar observatory at Klana Beach Resort, situated between Teluk Kemang and Pantai Purnama in PD. Established since 2012 at a cost of MYR38 million, the state-of-the-art complex features a sophisticated 24-inch telescope for tracking the moon, stars and various celestial objects in the sky.",
+              "itenary_image": "https://www.portdickson.info/img/teluk-kemang-observatory-baitul-hilal.jpg",
+              "website": "https://bctkpd.com/",
+              "phone_number": "06-648 7888",
+              "itenary_coordinate": {
+                "lat": 2.4451,
+                "lon": 101.8547
+              },
+
+              "address": "Lot 4506, 8, Jalan Pantai, Tanjung Tanah Merah",
+              "state": "Port Dickson, Negeri Sembilan",
+              "postcode": "71050"
+            },
+            {
+              "itenary_id": 3,
+              "itenary_location_name": "Army Museum Port Dickson",
+              "itenary_description": "The Army Museum, known locally as Muzium Tentera Darat, is located next to a military base off the main road at 5th mile, about 7km away from Port Dickson town in Sirusa district. A property of the Malaysian Royal Armed Forces, the museum traces its exploits and achievements through history, trumped up with dramatised aspects and romantic story-telling.",
+              "itenary_image": "https://cdn.trixoli.com/army-museum-muzium-tentera-min.jpg",
+              "website": "",
+              "phone_number": "06-646 4263",
+              "itenary_coordinate": {
+                "lat": 1.4798,
+                "lon": 103.7262
+              },
+
+              "address": "Kem, Persiaran Pahlawan, Kampung Baru Sirusa",
+              "state": "Port Dickson, Negeri Sembilan",
+              "postcode": "71050"
+            },
+            {
+              "itenary_id": 4,
+              "itenary_location_name": "Cahaya Negeri Beach",
+              "itenary_description": "Pantai Cahaya Negeri is one of PD's largest beaches, situated on a vast coastal strip between 5th and 6th mile of Port Dickson. It has one of the highest densities of family hotels and resorts within the area, owing to its natural beauty, wealth of public facilities and good infrastructure. The main feature along the beach is an artificial cape that houses a recreational park lined with picnic gazebos.",
+              "itenary_image": "https://cdn.trixoli.com/cahaya-negeri-beach-pantai-cahaya-negeri-min.jpg",
+              "website": "",
+              "phone_number": "",
+              "itenary_coordinate": {
+                "lat": 2.4914,
+                "lon": 101.8397
+              },
+
+              "address": "Pantai Cahaya Negeri",
+              "state": "Port Dickson, Negeri Sembilan",
+              "postcode": "71000"
+            },
+            {
+              "itenary_id": 5,
+              "itenary_location_name": "Sungai Menyala Edu-Ecotourism Centre",
+              "itenary_description": "Covering an area of 1,280 hectares, Sungai Menyala Edu-Ecotourism Centre is the perfect place for nature lovers. Though it might not be as big as the national park, it has 3 different trails here to give you a varying jungle trekking experience. It also has a gallery showcasing the aboriginal tribe and also the various types of forest, trees and more. If you are looking to stay the night here, you can stay in one of the rooms in the accommodation wing.",
+              "itenary_image": "https://cdn.trixoli.com/sungai-menyala-edu-ecotourism-centre-pusat-edu-ecotourism-sungai-menyala-min.jpg",
+              "website": "",
+              "phone_number": "",
+              "itenary_coordinate": {
+                "lat": 2.4487,
+                "lon": 101.85845
+              },
+
+              "address": "Si Rusa, Port Dickson",
+              "state": "Negeri Sembilan",
+              "postcode": "71000"
+            }
+          ],
+          [
+            {
+              "itenary_id": 0,
+              "itenary_location_name": "Extreme Park Port Dickson",
+              "itenary_description": "",
+              "itenary_image": "https://cdn.trixoli.com/extreme-park-port-dickson-min.jpg",
+              "website": "",
+              "phone_number": "019-380 8529",
+              "itenary_coordinate": {
+                "lat": 2.4289,
+                "lon": 101.8945
+              },
+
+              "address": "Batu 13 KM 21, Jalan Pantai, Mukim Pasir Panjang",
+              "state": "Port Dickson, Negeri Sembilan",
+              "postcode": "71250"
+            },
+            {
+              "itenary_id": 1,
+              "itenary_location_name": "Saujana Beach",
+              "itenary_description": "Pantai Saujana is a beach destination along 4th mile of Port Dickson, nestled between Bagan Pinang and Pantai Cahaya Negeri. A strategic location, the coastline is wide and spacious, making it popular for kite-flying activities. Camping is another favourite family activity, with public shower facilities available. At west end of Saujana lies a nice fishing spot and campsite.",
+              "itenary_image": "https://cdn.trixoli.com/saujana-beach-pantai-saujana-min.jpg",
+              "website": "",
+              "phone_number": "",
+              "itenary_coordinate": {
+                "lat": 2.5025,
+                "lon": 101.8363
+              },
+
+              "address": "Pantai Saujana",
+              "state": "Port Dickson, Negeri Sembilan",
+              "postcode": "71050"
+            },
+            {
+              "itenary_id": 2,
+              "itenary_location_name": "Ulu Bendul Recreational Park",
+              "itenary_description": "Who loves with Mother Nature, there is one place recommended to visit. The Ulu Bendul Recreational Park is a place where you can relax yourself along with your family while listening to the breeze of the wind.",
+              "itenary_image": "https://www.malaysiacarcamping.com/wp-content/uploads/2019/09/Hutan_Lipur_Ulu_Bendul_Negeri_Sembilan_malaysia_car_camping_malaysia_campsite_11.jpg",
+              "website": "",
+              "phone_number": "",
+              "itenary_coordinate": {
+                "lat": 2.7306,
+                "lon": 102.0808
+              },
+
+              "address": "Terachi",
+              "state": "Tanjong Ipoh, Negeri Sembilan",
+              "postcode": "71500"
+            }
+          ]
+        ]
+      }
+    },
+
 
     "food": 
       {
